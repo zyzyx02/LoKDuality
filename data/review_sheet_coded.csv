@@ -1,0 +1,23 @@
+﻿game,seq,speaker_canon,scene,p_narration,register_manual,text,register_manual
+Defiance,15,Kain,2,0.4706,,"Enough wordplay. (Kain advances toward Moebius, the Soul Reaver in his hand.)",dialogue
+Defiance,20,Kain,2,0.4494,,These strange creatures seemed to manifest from the very shadows.,narration
+Defiance,98,Raziel,15,0.4823,,But there's no sign of decay. How is this possible after all these years?,dialogue
+Defiance,104,Raziel,16,0.3798,,How can I find the Heart in the midst of such chaos?,dialogue
+Defiance,118,Kain,19,0.3639,,"If Avernus is in flames, Raziel is five centuries beyond my reach.",dialogue
+Defiance,233,Raziel,27,0.6234,,"Had I journeyed so far and forsaken so much, only to have it end like this?",narration
+Defiance,242,Raziel,27,0.5215,,Why then would the Vampires devise a weapon to consume and imprison their savior?,dialogue
+Defiance,257,Raziel,27,0.4333,,"I want answers. The world can end this instant, for all I care.",dialogue
+Defiance,309,Kain,32,0.4796,,"I always was considered heartless. And now, Moebius, it is time.",dialogue
+Defiance,330,Raziel,32,0.4579,,But what hope had there been? One cannot fight the unseen.,dialogue
+Defiance,339,Raziel,32,0.5702,,"The Soul Reaver, pure of all corruption... this is what it is for. This is what I am for.",dialogue
+Soul Reaver,6,Raziel,PROLOGUE,0.4055,,"For my transgression, I earned a new kind of reward...",narration
+Soul Reaver,18,Raziel,PROLOGUE,0.6359,,"An eternity passed, and my torment receded, bringing me back from the precipice of madness.",narration
+Soul Reaver,20,Raziel,PROLOGUE,0.5051,,"The descent had destroyed me, and yet I lived.",narration
+Soul Reaver,27,Raziel,THE REAVER OF SOULS,0.629,,"What pitiful form is this that I have come to inhabit? Death would be a release, next to this travesty!",dialogue
+Soul Reaver,40,Raziel,TRAINING,0.3988,,The old hunger has left me; I have no desire for blood.,dialogue
+Soul Reaver,56,Raziel,TRAINING,0.5179,,"That's impossible! These foul, scuttling beasts could not be kin of our high blood.",dialogue
+Soul Reaver,122,Raziel,Kain: First Blood,0.3519,,"The Soul Reaver, Kain's ancient blade. Older than any of us, and a thousand times more deadly. The legends claimed that the blade was possessed and thrived by devouring the souls of its victims. For all our bravado, we knew what it meant when Kain drew the Soul Reaver in anger. It meant you were dead.",narration
+Soul Reaver,180,Raziel,THE DROWNED ABBEY,0.3835,,"Sarafan, Rahab. The antithesis of all we ever believed.",dialogue
+Soul Reaver,219,Raziel,THE ORACLE'S CAVE,0.6247,,My mind reels with conflict. Does Kain await me moments from now or in some century yet to come?,narration
+Soul Reaver,221,Raziel,THE ORACLE'S CAVE,0.5593,,"This cannot be! What madness does this scene portend? Kain must think me credulous, to suffer these lies!",narration
+Soul Reaver,223,Raziel,THE ORACLE'S CAVE,0.4664,,Is this phantasm a conjuration of my mind or an echo of future events...?,narration

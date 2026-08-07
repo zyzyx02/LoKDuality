@@ -1,0 +1,1499 @@
+block_id,game,speaker_canon,register,register_source,p_narration,n_words,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+Blood Omen|19,Blood Omen,Kain,dialogue,none,NA,23,1,1,0,1,1,2,1,2
+Blood Omen|22,Blood Omen,Kain,narration,explicit_paren,NA,18,0,1,0,1,0,0,0,0
+Blood Omen|28,Blood Omen,Kain,narration,explicit_paren,NA,49,5,1,3,6,0,5,1,0
+Blood Omen|30,Blood Omen,Kain,narration,explicit_paren,NA,7,0,0,0,0,0,0,0,0
+Blood Omen|32,Blood Omen,Kain,narration,explicit_paren,NA,28,2,1,1,1,0,0,2,0
+Blood Omen|36,Blood Omen,Kain,narration,explicit_paren,NA,17,1,0,1,3,0,3,0,0
+Blood Omen|38,Blood Omen,Kain,narration,explicit_paren,NA,42,2,5,1,4,3,2,2,3
+Blood Omen|40,Blood Omen,Kain,narration,explicit_paren,NA,21,0,0,0,0,0,0,0,0
+Blood Omen|42,Blood Omen,Kain,narration,explicit_paren,NA,27,2,2,1,3,1,3,1,1
+Blood Omen|44,Blood Omen,Kain,narration,explicit_paren,NA,18,1,1,0,0,0,0,0,0
+Blood Omen|47,Blood Omen,Kain,narration,explicit_paren,NA,11,2,0,2,2,0,2,1,1
+Blood Omen|49,Blood Omen,Kain,narration,explicit_paren,NA,25,1,0,1,1,1,1,0,0
+Blood Omen|52,Blood Omen,Kain,dialogue,none,NA,11,1,0,1,1,0,1,0,0
+Blood Omen|54,Blood Omen,Kain,dialogue,none,NA,5,0,1,0,0,0,0,0,0
+Blood Omen|58,Blood Omen,Kain,dialogue,none,NA,9,0,1,0,0,0,0,0,0
+Blood Omen|61,Blood Omen,Kain,dialogue,none,NA,95,2,0,1,3,0,3,0,0
+Blood Omen|63,Blood Omen,Kain,narration,explicit_paren,NA,33,2,1,2,2,0,1,1,0
+Blood Omen|65,Blood Omen,Kain,narration,explicit_paren,NA,15,2,1,1,2,1,0,1,1
+Blood Omen|68,Blood Omen,Kain,narration,explicit_paren,NA,37,1,0,1,2,0,1,0,0
+Blood Omen|70,Blood Omen,Kain,narration,explicit_paren,NA,18,0,2,0,0,2,0,0,2
+Blood Omen|72,Blood Omen,Kain,narration,explicit_paren,NA,16,1,1,1,1,0,1,0,0
+Blood Omen|74,Blood Omen,Kain,narration,explicit_paren,NA,23,0,0,1,1,1,1,1,1
+Blood Omen|76,Blood Omen,Kain,narration,explicit_paren,NA,20,2,0,2,3,0,3,0,0
+Blood Omen|78,Blood Omen,Kain,narration,explicit_paren,NA,37,0,1,0,0,1,0,0,2
+Blood Omen|82,Blood Omen,Kain,narration,explicit_paren,NA,105,11,1,7,9,2,8,1,3
+Blood Omen|84,Blood Omen,Kain,narration,explicit_paren,NA,30,0,1,2,1,0,1,0,2
+Blood Omen|86,Blood Omen,Kain,narration,explicit_paren,NA,36,1,0,1,0,0,2,0,0
+Blood Omen|90,Blood Omen,Kain,narration,explicit_paren,NA,37,4,2,3,2,0,4,1,0
+Blood Omen|92,Blood Omen,Kain,narration,explicit_paren,NA,15,0,1,0,0,1,0,0,1
+Blood Omen|94,Blood Omen,Kain,narration,explicit_paren,NA,94,5,3,1,4,2,2,1,5
+Blood Omen|97,Blood Omen,Kain,narration,explicit_paren,NA,34,1,1,3,3,0,3,1,1
+Blood Omen|99,Blood Omen,Kain,narration,explicit_paren,NA,29,1,1,2,1,1,2,1,1
+Blood Omen|101,Blood Omen,Kain,narration,explicit_paren,NA,26,0,0,0,0,0,0,0,0
+Blood Omen|103,Blood Omen,Kain,narration,explicit_paren,NA,22,2,3,2,2,1,2,1,1
+Blood Omen|105,Blood Omen,Kain,narration,explicit_paren,NA,31,1,2,0,0,0,1,0,2
+Blood Omen|108,Blood Omen,Kain,narration,explicit_paren,NA,23,1,0,2,2,0,2,0,2
+Blood Omen|112,Blood Omen,Kain,narration,explicit_paren,NA,42,1,3,1,4,1,1,1,3
+Blood Omen|120,Blood Omen,Kain,narration,explicit_paren,NA,29,2,1,0,0,0,0,0,0
+Blood Omen|123,Blood Omen,Kain,narration,explicit_paren,NA,25,0,0,0,1,1,1,1,1
+Blood Omen|125,Blood Omen,Kain,narration,explicit_paren,NA,27,1,0,1,1,0,0,0,2
+Blood Omen|127,Blood Omen,Kain,narration,explicit_paren,NA,16,1,1,1,1,0,1,0,1
+Blood Omen|130,Blood Omen,Kain,narration,explicit_paren,NA,15,0,0,0,0,0,0,0,1
+Blood Omen|134,Blood Omen,Kain,narration,explicit_paren,NA,46,0,4,0,0,1,0,0,2
+Blood Omen|137,Blood Omen,Kain,narration,explicit_paren,NA,18,0,0,0,0,0,0,0,0
+Blood Omen|139,Blood Omen,Kain,narration,explicit_paren,NA,110,3,1,2,6,3,4,1,3
+Blood Omen|141,Blood Omen,Kain,narration,explicit_paren,NA,23,2,1,0,4,2,1,1,1
+Blood Omen|143,Blood Omen,Kain,narration,explicit_paren,NA,8,1,1,1,1,0,1,0,0
+Blood Omen|145,Blood Omen,Kain,narration,explicit_paren,NA,21,0,1,0,1,0,0,0,1
+Blood Omen|148,Blood Omen,Kain,dialogue,none,NA,5,0,1,0,0,0,0,0,0
+Blood Omen|150,Blood Omen,Kain,dialogue,none,NA,21,0,0,0,0,0,0,0,0
+Blood Omen|152,Blood Omen,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen|154,Blood Omen,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen|158,Blood Omen,Kain,narration,explicit_paren,NA,53,0,2,0,1,0,2,1,0
+Blood Omen|160,Blood Omen,Kain,narration,explicit_paren,NA,43,2,1,2,5,0,3,0,0
+Blood Omen|162,Blood Omen,Kain,narration,explicit_paren,NA,37,3,3,3,3,3,1,1,4
+Blood Omen|164,Blood Omen,Kain,narration,explicit_paren,NA,49,2,1,1,3,1,2,1,0
+Blood Omen|166,Blood Omen,Kain,narration,explicit_paren,NA,39,2,1,3,2,1,2,1,1
+Blood Omen|168,Blood Omen,Kain,narration,explicit_paren,NA,80,8,4,6,9,2,4,1,1
+Blood Omen|170,Blood Omen,Kain,narration,explicit_paren,NA,48,1,1,0,1,1,0,0,2
+Blood Omen|172,Blood Omen,Kain,narration,explicit_paren,NA,53,1,2,0,4,0,3,0,1
+Blood Omen|174,Blood Omen,Kain,narration,explicit_paren,NA,20,1,1,2,2,1,3,0,1
+Blood Omen|176,Blood Omen,Kain,narration,explicit_paren,NA,95,2,4,2,3,3,3,1,4
+Blood Omen|181,Blood Omen,Kain,narration,explicit_paren,NA,58,3,0,2,4,0,1,0,1
+Blood Omen|185,Blood Omen,Kain,narration,explicit_paren,NA,38,1,1,2,1,2,1,1,2
+Blood Omen|187,Blood Omen,Kain,narration,explicit_paren,NA,52,1,0,3,0,0,3,0,1
+Blood Omen|189,Blood Omen,Kain,narration,explicit_paren,NA,15,0,0,0,1,1,0,0,1
+Blood Omen|191,Blood Omen,Kain,narration,explicit_paren,NA,50,2,2,2,2,2,4,0,4
+Blood Omen|193,Blood Omen,Kain,narration,explicit_paren,NA,25,0,0,0,0,0,0,0,0
+Blood Omen|195,Blood Omen,Kain,narration,explicit_paren,NA,29,0,1,0,0,1,0,0,1
+Blood Omen|197,Blood Omen,Kain,narration,explicit_paren,NA,19,0,0,0,0,0,0,0,0
+Blood Omen|199,Blood Omen,Kain,narration,explicit_paren,NA,38,0,0,2,0,0,0,1,3
+Blood Omen|201,Blood Omen,Kain,narration,explicit_paren,NA,52,2,1,0,2,1,0,0,1
+Blood Omen|203,Blood Omen,Kain,narration,explicit_paren,NA,23,1,0,1,1,0,0,0,1
+Blood Omen|208,Blood Omen,Kain,dialogue,none,NA,15,1,1,1,1,0,0,0,0
+Blood Omen|213,Blood Omen,Kain,narration,explicit_paren,NA,29,1,1,1,1,1,0,0,1
+Blood Omen|215,Blood Omen,Kain,narration,explicit_paren,NA,16,2,0,0,2,0,1,0,0
+Blood Omen|217,Blood Omen,Kain,narration,explicit_paren,NA,26,0,0,0,0,0,0,0,1
+Blood Omen|219,Blood Omen,Kain,narration,explicit_paren,NA,23,1,1,1,2,2,0,1,4
+Blood Omen|221,Blood Omen,Kain,narration,explicit_paren,NA,84,2,0,1,3,0,1,0,1
+Blood Omen|224,Blood Omen,Kain,narration,explicit_paren,NA,6,0,0,0,0,0,0,0,0
+Blood Omen|226,Blood Omen,Kain,narration,explicit_paren,NA,22,2,1,0,2,0,2,0,1
+Blood Omen|228,Blood Omen,Kain,narration,explicit_paren,NA,31,2,1,3,2,0,2,2,0
+Blood Omen|230,Blood Omen,Kain,narration,explicit_paren,NA,16,0,0,0,0,0,0,0,0
+Blood Omen|232,Blood Omen,Kain,narration,explicit_paren,NA,28,1,1,1,2,0,1,0,0
+Blood Omen|234,Blood Omen,Kain,narration,explicit_paren,NA,43,0,2,0,0,1,0,1,1
+Blood Omen|236,Blood Omen,Kain,narration,explicit_paren,NA,35,0,0,0,0,1,0,0,1
+Blood Omen|238,Blood Omen,Kain,narration,explicit_paren,NA,9,0,0,0,0,0,0,0,0
+Blood Omen|242,Blood Omen,Kain,narration,explicit_paren,NA,19,0,1,0,0,1,0,1,0
+Blood Omen|246,Blood Omen,Kain,narration,explicit_paren,NA,23,1,0,1,1,0,2,0,0
+Blood Omen|248,Blood Omen,Kain,narration,explicit_paren,NA,22,0,1,0,0,1,0,1,0
+Blood Omen|252,Blood Omen,Kain,narration,explicit_paren,NA,10,0,0,0,0,0,0,0,0
+Blood Omen|254,Blood Omen,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen|257,Blood Omen,Kain,narration,explicit_paren,NA,39,0,0,0,1,0,1,0,1
+Blood Omen|261,Blood Omen,Kain,narration,explicit_paren,NA,39,4,3,1,4,4,0,0,7
+Blood Omen|263,Blood Omen,Kain,narration,explicit_paren,NA,47,0,0,1,0,0,0,1,1
+Blood Omen|265,Blood Omen,Kain,narration,explicit_paren,NA,65,1,3,0,2,4,1,1,3
+Blood Omen|267,Blood Omen,Kain,narration,explicit_paren,NA,28,0,0,1,0,0,1,0,1
+Blood Omen|269,Blood Omen,Kain,narration,explicit_paren,NA,90,3,4,3,8,2,3,1,4
+Blood Omen|271,Blood Omen,Kain,narration,explicit_paren,NA,57,4,2,3,4,1,2,1,1
+Blood Omen|273,Blood Omen,Kain,dialogue,none,NA,16,0,0,0,0,0,0,0,0
+Blood Omen|275,Blood Omen,Kain,dialogue,none,NA,23,0,0,0,0,0,2,0,0
+Blood Omen|277,Blood Omen,Kain,narration,explicit_paren,NA,29,0,3,1,1,1,1,0,0
+Blood Omen|279,Blood Omen,Kain,narration,explicit_paren,NA,7,0,0,0,0,0,0,0,0
+Blood Omen|281,Blood Omen,Kain,narration,explicit_paren,NA,52,3,4,2,3,2,2,2,2
+Blood Omen|283,Blood Omen,Kain,narration,explicit_paren,NA,63,3,3,0,3,3,1,1,2
+Blood Omen|285,Blood Omen,Kain,narration,explicit_paren,NA,43,0,0,0,0,0,2,0,1
+Blood Omen|287,Blood Omen,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen|290,Blood Omen,Kain,dialogue,none,NA,8,0,1,0,0,0,0,0,0
+Blood Omen|292,Blood Omen,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen|296,Blood Omen,Kain,narration,explicit_paren,NA,10,0,0,0,0,0,0,0,0
+Blood Omen|298,Blood Omen,Kain,narration,explicit_paren,NA,18,1,0,1,1,1,1,0,0
+Blood Omen|300,Blood Omen,Kain,narration,explicit_paren,NA,48,2,1,1,3,1,0,1,0
+Blood Omen|302,Blood Omen,Kain,dialogue,none,NA,25,0,0,0,0,0,0,1,0
+Blood Omen|307,Blood Omen,Kain,narration,explicit_paren,NA,70,4,2,2,3,3,3,4,3
+Blood Omen|310,Blood Omen,Kain,narration,explicit_paren,NA,40,2,3,1,2,2,1,2,1
+Blood Omen|312,Blood Omen,Kain,narration,explicit_paren,NA,46,1,1,2,2,0,2,0,1
+Blood Omen|326,Blood Omen,Kain,narration,explicit_paren,NA,25,1,0,0,1,0,0,0,0
+Blood Omen|328,Blood Omen,Kain,narration,explicit_paren,NA,27,1,2,0,1,1,0,0,1
+Blood Omen|339,Blood Omen,Kain,narration,explicit_paren,NA,40,1,0,0,0,2,0,0,3
+Blood Omen|341,Blood Omen,Kain,narration,explicit_paren,NA,16,0,2,0,0,0,0,1,1
+Blood Omen|343,Blood Omen,Kain,narration,explicit_paren,NA,17,0,0,0,0,0,0,0,1
+Blood Omen|345,Blood Omen,Kain,narration,explicit_paren,NA,42,3,0,2,2,1,1,1,1
+Blood Omen|347,Blood Omen,Kain,narration,explicit_paren,NA,34,1,0,1,1,0,1,0,0
+Blood Omen|349,Blood Omen,Kain,narration,explicit_paren,NA,33,0,1,0,0,1,0,1,1
+Blood Omen|351,Blood Omen,Kain,narration,explicit_paren,NA,43,3,0,1,3,0,2,0,1
+Blood Omen|363,Blood Omen,Kain,narration,explicit_paren,NA,63,1,4,0,0,0,0,0,3
+Blood Omen|370,Blood Omen,Kain,dialogue,none,NA,18,0,1,0,0,0,0,0,0
+Blood Omen|373,Blood Omen,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen|375,Blood Omen,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen|377,Blood Omen,Kain,narration,explicit_paren,NA,25,0,1,0,0,0,0,0,0
+Blood Omen|385,Blood Omen,Kain,dialogue,none,NA,25,1,2,0,3,0,2,0,1
+Blood Omen|389,Blood Omen,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,1
+Blood Omen|391,Blood Omen,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen|393,Blood Omen,Kain,narration,explicit_paren,NA,91,1,2,1,3,0,2,1,2
+Blood Omen|395,Blood Omen,Kain,narration,explicit_paren,NA,26,0,1,0,0,1,0,1,0
+Blood Omen|397,Blood Omen,Kain,narration,explicit_paren,NA,25,0,0,0,0,0,1,0,0
+Soul Reaver|2,Soul Reaver,Raziel,narration,model,0.8876,34,1,0,1,1,2,0,0,2
+Soul Reaver|4,Soul Reaver,Raziel,narration,model,0.9655,66,0,3,1,1,2,0,2,3
+Soul Reaver|6,Soul Reaver,Raziel,narration,manual,NA,10,0,1,0,0,2,0,1,2
+Soul Reaver|8,Soul Reaver,Raziel,dialogue,model,0.0168,1,1,0,0,1,0,1,0,0
+Soul Reaver|10,Soul Reaver,Raziel,narration,model,0.8888,34,1,1,1,1,0,1,0,0
+Soul Reaver|12,Soul Reaver,Kain,dialogue,model,0.0555,3,0,0,0,0,0,0,0,0
+Soul Reaver|14,Soul Reaver,Raziel,dialogue,model,1e-4,1,0,0,0,0,0,0,0,0
+Soul Reaver|16,Soul Reaver,Raziel,narration,model,0.9105,36,5,3,3,8,1,6,0,1
+Soul Reaver|18,Soul Reaver,Raziel,narration,manual,NA,15,2,0,0,3,0,1,0,0
+Soul Reaver|20,Soul Reaver,Raziel,narration,manual,NA,9,1,0,0,2,0,2,0,0
+Soul Reaver|25,Soul Reaver,Raziel,dialogue,model,0.0461,4,1,0,0,1,0,0,0,0
+Soul Reaver|27,Soul Reaver,Raziel,dialogue,manual,NA,20,1,1,2,2,0,2,1,0
+Soul Reaver|30,Soul Reaver,Raziel,dialogue,model,0.2028,7,1,0,0,1,0,0,0,0
+Soul Reaver|32,Soul Reaver,Raziel,dialogue,model,0.0487,3,1,0,0,1,0,1,0,0
+Soul Reaver|40,Soul Reaver,Raziel,dialogue,manual,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver|45,Soul Reaver,Raziel,dialogue,model,0.0783,5,0,0,0,0,0,0,0,0
+Soul Reaver|54,Soul Reaver,Raziel,dialogue,model,0.0461,4,0,0,0,0,0,0,0,0
+Soul Reaver|56,Soul Reaver,Raziel,dialogue,manual,NA,14,1,0,1,1,0,1,0,0
+Soul Reaver|59,Soul Reaver,Raziel,narration,model,0.9554,58,1,0,1,2,0,0,1,1
+Soul Reaver|66,Soul Reaver,Raziel,dialogue,model,0.0179,2,0,1,0,1,1,0,0,1
+Soul Reaver|68,Soul Reaver,Raziel,narration,model,0.9599,52,1,2,1,2,2,3,0,3
+Soul Reaver|73,Soul Reaver,Raziel,narration,model,0.7618,21,0,0,0,1,0,2,0,1
+Soul Reaver|75,Soul Reaver,Raziel,narration,model,0.9215,36,0,1,0,2,0,1,0,1
+Soul Reaver|77,Soul Reaver,Raziel,narration,model,0.7975,22,0,1,0,1,1,1,0,2
+Soul Reaver|81,Soul Reaver,Raziel,narration,model,0.7913,21,0,0,2,1,0,1,0,0
+Soul Reaver|83,Soul Reaver,Raziel,narration,model,0.9411,41,0,0,0,0,0,0,0,2
+Soul Reaver|85,Soul Reaver,Raziel,narration,model,0.958,50,1,1,2,2,1,3,1,1
+Soul Reaver|89,Soul Reaver,Raziel,dialogue,model,0.0011,3,0,0,1,1,0,0,0,1
+Soul Reaver|92,Soul Reaver,Raziel,dialogue,model,0.0043,1,0,0,0,0,0,0,0,0
+Soul Reaver|94,Soul Reaver,Raziel,dialogue,model,0.0311,20,1,0,1,1,0,1,0,2
+Soul Reaver|96,Soul Reaver,Raziel,dialogue,model,0.0034,7,0,0,0,0,0,0,0,0
+Soul Reaver|99,Soul Reaver,Raziel,dialogue,model,0.2196,9,0,0,0,0,0,0,0,0
+Soul Reaver|105,Soul Reaver,Raziel,dialogue,model,0.2356,9,0,0,0,0,0,0,0,0
+Soul Reaver|111,Soul Reaver,Kain,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Soul Reaver|112,Soul Reaver,Raziel,dialogue,model,0.0086,1,0,0,0,0,0,0,0,0
+Soul Reaver|113,Soul Reaver,Kain,dialogue,model,0.1006,5,1,0,1,2,0,2,0,0
+Soul Reaver|115,Soul Reaver,Raziel,dialogue,model,0.0454,25,1,0,1,1,0,1,0,1
+Soul Reaver|116,Soul Reaver,Kain,dialogue,model,0.2569,9,0,1,0,0,1,0,0,0
+Soul Reaver|117,Soul Reaver,Raziel,dialogue,model,0.0122,13,1,1,1,1,1,0,0,1
+Soul Reaver|118,Soul Reaver,Kain,dialogue,constraint,NA,82,0,2,0,1,0,2,1,5
+Soul Reaver|119,Soul Reaver,Raziel,dialogue,model,0.1267,5,0,0,0,0,0,0,0,1
+Soul Reaver|120,Soul Reaver,Kain,dialogue,model,0.1192,34,0,0,0,0,0,0,0,1
+Soul Reaver|122,Soul Reaver,Raziel,narration,manual,NA,56,3,0,2,2,0,2,0,0
+Soul Reaver|124,Soul Reaver,Kain,dialogue,constraint,NA,15,0,0,0,0,0,0,0,0
+Soul Reaver|126,Soul Reaver,Raziel,narration,model,0.9081,33,1,0,0,1,0,1,0,0
+Soul Reaver|131,Soul Reaver,Raziel,dialogue,model,0.0099,8,0,0,0,0,0,0,0,1
+Soul Reaver|133,Soul Reaver,Raziel,dialogue,model,0.0051,8,0,0,0,1,0,0,0,0
+Soul Reaver|135,Soul Reaver,Raziel,dialogue,model,0.2173,8,0,0,1,0,0,1,0,1
+Soul Reaver|140,Soul Reaver,Raziel,narration,model,0.97,62,7,3,3,7,2,3,1,3
+Soul Reaver|143,Soul Reaver,Raziel,dialogue,model,0.0167,12,0,0,0,0,0,0,0,0
+Soul Reaver|145,Soul Reaver,Raziel,dialogue,model,0.1544,40,1,0,0,2,0,2,0,0
+Soul Reaver|152,Soul Reaver,Raziel,narration,model,0.9815,72,3,1,1,6,0,2,0,1
+Soul Reaver|156,Soul Reaver,Raziel,narration,model,0.8593,25,1,1,0,1,0,0,0,1
+Soul Reaver|158,Soul Reaver,Raziel,narration,model,0.9583,54,4,0,3,4,0,2,0,0
+Soul Reaver|162,Soul Reaver,Raziel,dialogue,model,0.0528,23,0,1,0,1,1,0,0,1
+Soul Reaver|164,Soul Reaver,Raziel,dialogue,model,0.0235,15,1,1,0,1,0,0,0,0
+Soul Reaver|172,Soul Reaver,Raziel,dialogue,model,0.022,12,0,0,0,0,0,0,0,0
+Soul Reaver|174,Soul Reaver,Raziel,dialogue,model,0.0025,5,1,0,1,1,0,1,0,0
+Soul Reaver|176,Soul Reaver,Raziel,dialogue,model,0.0058,6,0,0,0,0,0,0,0,0
+Soul Reaver|178,Soul Reaver,Raziel,dialogue,model,0.0602,24,0,0,0,0,0,0,0,1
+Soul Reaver|180,Soul Reaver,Raziel,dialogue,manual,NA,9,1,0,0,0,0,0,0,1
+Soul Reaver|182,Soul Reaver,Raziel,dialogue,model,0.0847,4,0,0,0,0,0,0,0,0
+Soul Reaver|191,Soul Reaver,Raziel,narration,model,0.8827,33,1,1,0,1,1,0,0,1
+Soul Reaver|194,Soul Reaver,Raziel,narration,model,0.7535,24,2,1,3,3,1,1,0,2
+Soul Reaver|197,Soul Reaver,Raziel,dialogue,model,0.0235,16,0,0,0,2,0,2,1,0
+Soul Reaver|199,Soul Reaver,Raziel,dialogue,model,0.1429,6,1,0,1,1,0,0,0,0
+Soul Reaver|201,Soul Reaver,Raziel,dialogue,model,0.0344,20,0,1,0,0,0,1,1,0
+Soul Reaver|207,Soul Reaver,Raziel,narration,model,0.9889,108,3,1,4,4,0,3,2,2
+Soul Reaver|209,Soul Reaver,Raziel,narration,model,0.9256,38,0,1,0,0,0,0,0,0
+Soul Reaver|212,Soul Reaver,Raziel,dialogue,model,0.2718,10,2,1,2,1,0,2,1,0
+Soul Reaver|215,Soul Reaver,Raziel,dialogue,model,0.2371,9,1,0,0,1,0,1,0,0
+Soul Reaver|217,Soul Reaver,Raziel,dialogue,model,0.222,8,0,0,0,0,0,1,0,0
+Soul Reaver|219,Soul Reaver,Raziel,narration,manual,NA,19,1,1,0,1,0,1,0,0
+Soul Reaver|221,Soul Reaver,Raziel,narration,manual,NA,18,1,0,0,1,0,0,0,0
+Soul Reaver|223,Soul Reaver,Raziel,narration,manual,NA,14,0,0,0,0,0,0,0,0
+Soul Reaver|225,Soul Reaver,Kain,dialogue,model,0.0813,27,2,1,2,1,1,2,1,0
+Soul Reaver|226,Soul Reaver,Raziel,dialogue,model,0.0178,11,0,0,0,1,0,1,0,0
+Soul Reaver|227,Soul Reaver,Kain,dialogue,model,0.0291,15,2,1,2,1,1,1,0,1
+Soul Reaver|228,Soul Reaver,Raziel,dialogue,model,0.0056,8,0,1,0,0,0,0,0,0
+Soul Reaver|230,Soul Reaver,Kain,dialogue,constraint,NA,120,0,2,0,0,0,0,0,1
+Soul Reaver|231,Soul Reaver,Raziel,dialogue,model,0.0376,18,0,0,0,0,0,0,0,0
+Soul Reaver|232,Soul Reaver,Kain,dialogue,model,0.2585,56,0,3,0,0,0,0,1,1
+Soul Reaver|233,Soul Reaver,Raziel,dialogue,model,0.0533,24,1,0,2,1,0,1,0,2
+Soul Reaver|234,Soul Reaver,Kain,dialogue,model,0.2447,57,3,2,2,3,3,2,1,3
+Soul Reaver|235,Soul Reaver,Raziel,dialogue,model,0.1483,38,1,1,2,1,0,1,0,1
+Soul Reaver|236,Soul Reaver,Kain,dialogue,model,0.1018,29,0,0,0,0,0,0,0,1
+Soul Reaver|237,Soul Reaver,Raziel,dialogue,model,0.0312,19,1,0,0,0,0,1,0,1
+Soul Reaver|238,Soul Reaver,Kain,dialogue,model,0.014,14,0,1,0,0,0,0,0,0
+Soul Reaver|240,Soul Reaver,Kain,dialogue,model,0.0601,23,0,1,0,0,0,0,0,0
+Soul Reaver 2|2,Soul Reaver 2,Kain,dialogue,model,0.089,28,2,1,2,1,1,2,1,0
+Soul Reaver 2|4,Soul Reaver 2,Raziel,dialogue,none,NA,11,0,0,0,1,0,1,0,0
+Soul Reaver 2|6,Soul Reaver 2,Kain,dialogue,constraint,0.7365,22,0,0,0,0,0,0,0,0
+Soul Reaver 2|8,Soul Reaver 2,Kain,dialogue,constraint,NA,73,0,1,0,0,0,0,0,1
+Soul Reaver 2|10,Soul Reaver 2,Kain,dialogue,constraint,0.7414,26,0,1,0,0,0,0,1,0
+Soul Reaver 2|12,Soul Reaver 2,Raziel,dialogue,none,NA,19,2,0,1,1,1,1,0,2
+Soul Reaver 2|14,Soul Reaver 2,Kain,dialogue,constraint,NA,17,0,0,0,0,0,0,0,0
+Soul Reaver 2|16,Soul Reaver 2,Kain,dialogue,constraint,NA,16,1,2,1,1,2,1,1,3
+Soul Reaver 2|18,Soul Reaver 2,Raziel,dialogue,none,NA,32,0,1,2,1,0,1,0,1
+Soul Reaver 2|20,Soul Reaver 2,Kain,dialogue,model,0.0446,19,0,0,0,0,0,0,0,1
+Soul Reaver 2|22,Soul Reaver 2,Kain,dialogue,constraint,NA,10,0,0,0,0,0,0,0,1
+Soul Reaver 2|25,Soul Reaver 2,Kain,dialogue,constraint,0.6869,20,0,1,0,0,0,0,0,0
+Soul Reaver 2|31,Soul Reaver 2,Raziel,dialogue,none,NA,14,0,0,1,1,0,0,0,1
+Soul Reaver 2|34,Soul Reaver 2,Raziel,dialogue,none,NA,23,0,0,0,1,0,1,0,0
+Soul Reaver 2|37,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|41,Soul Reaver 2,Raziel,dialogue,none,NA,14,0,0,0,0,0,0,0,0
+Soul Reaver 2|43,Soul Reaver 2,Raziel,dialogue,none,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver 2|47,Soul Reaver 2,Raziel,dialogue,none,NA,9,0,1,0,0,1,1,0,1
+Soul Reaver 2|50,Soul Reaver 2,Raziel,dialogue,none,NA,5,1,0,1,1,0,0,0,0
+Soul Reaver 2|54,Soul Reaver 2,Raziel,dialogue,none,NA,27,2,0,1,1,0,1,0,2
+Soul Reaver 2|65,Soul Reaver 2,Raziel,narration,explicit_vo,NA,34,0,1,0,0,0,0,0,0
+Soul Reaver 2|67,Soul Reaver 2,Raziel,narration,explicit_vo,NA,35,1,1,0,1,0,1,0,3
+Soul Reaver 2|69,Soul Reaver 2,Raziel,narration,explicit_vo,NA,78,3,2,2,3,2,1,1,3
+Soul Reaver 2|71,Soul Reaver 2,Raziel,narration,explicit_vo,NA,55,3,2,1,4,2,3,2,2
+Soul Reaver 2|73,Soul Reaver 2,Raziel,narration,explicit_vo,NA,58,4,1,2,6,1,3,0,0
+Soul Reaver 2|75,Soul Reaver 2,Raziel,narration,explicit_vo,NA,55,3,1,0,1,0,2,0,0
+Soul Reaver 2|77,Soul Reaver 2,Raziel,narration,explicit_vo,NA,19,0,0,0,1,0,1,0,0
+Soul Reaver 2|79,Soul Reaver 2,Raziel,narration,explicit_vo,NA,31,2,0,1,2,0,2,1,0
+Soul Reaver 2|81,Soul Reaver 2,Raziel,narration,explicit_vo,NA,62,4,2,2,4,0,4,0,1
+Soul Reaver 2|83,Soul Reaver 2,Raziel,narration,explicit_vo,NA,57,1,0,1,3,0,1,0,1
+Soul Reaver 2|85,Soul Reaver 2,Raziel,dialogue,none,NA,11,0,0,0,0,0,0,0,0
+Soul Reaver 2|87,Soul Reaver 2,Raziel,dialogue,none,NA,40,2,1,1,4,2,2,3,3
+Soul Reaver 2|89,Soul Reaver 2,Raziel,dialogue,none,NA,22,2,1,2,2,0,2,1,0
+Soul Reaver 2|93,Soul Reaver 2,Raziel,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Soul Reaver 2|98,Soul Reaver 2,Raziel,dialogue,none,NA,24,1,0,0,1,0,0,0,0
+Soul Reaver 2|100,Soul Reaver 2,Raziel,dialogue,none,NA,6,1,0,0,0,0,0,0,0
+Soul Reaver 2|104,Soul Reaver 2,Raziel,narration,explicit_vo,NA,47,1,0,0,1,0,1,0,1
+Soul Reaver 2|106,Soul Reaver 2,Raziel,narration,explicit_vo,NA,136,3,1,4,5,1,2,1,2
+Soul Reaver 2|108,Soul Reaver 2,Raziel,dialogue,none,NA,42,1,1,0,1,1,0,1,1
+Soul Reaver 2|110,Soul Reaver 2,Raziel,dialogue,none,NA,72,3,1,1,2,0,3,0,1
+Soul Reaver 2|112,Soul Reaver 2,Raziel,narration,explicit_vo,NA,103,2,3,3,2,4,4,0,3
+Soul Reaver 2|114,Soul Reaver 2,Raziel,narration,explicit_vo,NA,58,0,0,0,1,1,0,0,2
+Soul Reaver 2|116,Soul Reaver 2,Raziel,narration,explicit_vo,NA,19,1,1,0,1,1,0,0,1
+Soul Reaver 2|118,Soul Reaver 2,Raziel,narration,explicit_vo,NA,44,0,1,0,1,2,1,0,0
+Soul Reaver 2|120,Soul Reaver 2,Raziel,narration,explicit_vo,NA,82,0,4,0,5,2,1,1,3
+Soul Reaver 2|122,Soul Reaver 2,Raziel,narration,explicit_vo,NA,76,4,0,4,5,1,2,0,4
+Soul Reaver 2|124,Soul Reaver 2,Raziel,narration,explicit_vo,NA,29,0,0,0,0,0,0,0,1
+Soul Reaver 2|126,Soul Reaver 2,Raziel,narration,explicit_vo,NA,19,1,1,1,0,0,0,0,0
+Soul Reaver 2|128,Soul Reaver 2,Kain,dialogue,model,0.0028,6,0,0,0,0,0,0,0,0
+Soul Reaver 2|129,Soul Reaver 2,Raziel,dialogue,none,NA,15,0,0,0,0,0,0,0,0
+Soul Reaver 2|131,Soul Reaver 2,Kain,dialogue,model,0.2194,46,2,0,2,4,0,1,0,0
+Soul Reaver 2|133,Soul Reaver 2,Raziel,dialogue,none,NA,29,1,1,1,0,1,1,0,1
+Soul Reaver 2|134,Soul Reaver 2,Kain,dialogue,constraint,NA,12,0,0,0,0,1,0,0,0
+Soul Reaver 2|135,Soul Reaver 2,Raziel,dialogue,none,NA,17,0,0,0,0,0,0,0,0
+Soul Reaver 2|137,Soul Reaver 2,Kain,dialogue,model,0.2726,60,1,1,2,1,1,1,0,1
+Soul Reaver 2|139,Soul Reaver 2,Kain,dialogue,constraint,NA,10,0,1,0,0,1,0,0,1
+Soul Reaver 2|140,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|141,Soul Reaver 2,Kain,dialogue,model,0.0082,10,0,0,0,0,0,0,0,0
+Soul Reaver 2|143,Soul Reaver 2,Kain,dialogue,constraint,NA,77,0,0,0,1,0,2,0,1
+Soul Reaver 2|145,Soul Reaver 2,Kain,dialogue,model,0.1479,5,0,0,0,0,0,0,0,0
+Soul Reaver 2|147,Soul Reaver 2,Kain,dialogue,constraint,NA,18,0,0,0,0,0,0,0,1
+Soul Reaver 2|149,Soul Reaver 2,Raziel,dialogue,none,NA,2,0,1,0,1,1,0,0,1
+Soul Reaver 2|151,Soul Reaver 2,Kain,dialogue,constraint,0.9806,82,3,2,1,4,1,5,1,3
+Soul Reaver 2|152,Soul Reaver 2,Raziel,dialogue,none,NA,60,1,0,0,0,0,0,0,1
+Soul Reaver 2|153,Soul Reaver 2,Kain,dialogue,model,0.0797,27,3,0,1,1,0,0,0,1
+Soul Reaver 2|155,Soul Reaver 2,Kain,dialogue,constraint,0.6774,21,3,1,3,4,1,3,1,1
+Soul Reaver 2|157,Soul Reaver 2,Kain,dialogue,constraint,0.9763,78,2,0,2,4,0,2,0,0
+Soul Reaver 2|158,Soul Reaver 2,Raziel,dialogue,none,NA,12,0,0,0,0,0,0,0,1
+Soul Reaver 2|159,Soul Reaver 2,Kain,dialogue,constraint,NA,11,0,0,0,0,0,0,0,0
+Soul Reaver 2|160,Soul Reaver 2,Raziel,dialogue,none,NA,24,1,0,1,2,0,2,0,0
+Soul Reaver 2|161,Soul Reaver 2,Kain,dialogue,model,0.2417,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|163,Soul Reaver 2,Kain,dialogue,model,0.0862,4,0,0,0,0,0,0,0,0
+Soul Reaver 2|164,Soul Reaver 2,Raziel,dialogue,none,NA,14,0,0,0,0,0,0,0,0
+Soul Reaver 2|165,Soul Reaver 2,Kain,dialogue,model,0.0381,18,0,0,0,0,0,0,0,0
+Soul Reaver 2|168,Soul Reaver 2,Raziel,narration,explicit_vo,NA,76,2,3,0,3,1,0,0,3
+Soul Reaver 2|170,Soul Reaver 2,Raziel,narration,explicit_vo,NA,26,0,1,1,0,0,1,1,1
+Soul Reaver 2|172,Soul Reaver 2,Raziel,narration,explicit_vo,NA,46,0,0,0,0,1,1,2,1
+Soul Reaver 2|174,Soul Reaver 2,Raziel,narration,explicit_vo,NA,21,0,1,0,1,0,0,1,0
+Soul Reaver 2|180,Soul Reaver 2,Raziel,dialogue,none,NA,33,0,1,0,1,1,1,1,2
+Soul Reaver 2|182,Soul Reaver 2,Raziel,dialogue,none,NA,32,0,0,0,0,0,0,0,0
+Soul Reaver 2|184,Soul Reaver 2,Raziel,dialogue,none,NA,29,0,0,1,2,1,1,0,1
+Soul Reaver 2|187,Soul Reaver 2,Raziel,dialogue,none,NA,14,0,0,0,0,0,0,0,1
+Soul Reaver 2|188,Soul Reaver 2,Raziel,dialogue,none,NA,18,0,1,0,2,1,0,0,1
+Soul Reaver 2|190,Soul Reaver 2,Raziel,dialogue,none,NA,25,1,1,0,1,0,0,0,4
+Soul Reaver 2|192,Soul Reaver 2,Raziel,dialogue,none,NA,27,0,0,0,2,0,2,0,0
+Soul Reaver 2|195,Soul Reaver 2,Raziel,narration,explicit_vo,NA,17,0,0,0,0,0,0,0,0
+Soul Reaver 2|197,Soul Reaver 2,Raziel,narration,explicit_vo,NA,41,1,4,1,3,1,2,1,2
+Soul Reaver 2|199,Soul Reaver 2,Raziel,narration,explicit_vo,NA,81,4,0,2,6,0,2,1,0
+Soul Reaver 2|201,Soul Reaver 2,Raziel,narration,explicit_vo,NA,35,0,0,0,0,0,0,0,1
+Soul Reaver 2|203,Soul Reaver 2,Raziel,narration,explicit_vo,NA,43,0,0,0,0,2,0,0,2
+Soul Reaver 2|205,Soul Reaver 2,Raziel,narration,explicit_vo,NA,64,1,1,1,4,1,1,1,1
+Soul Reaver 2|207,Soul Reaver 2,Raziel,narration,explicit_vo,NA,42,1,0,0,1,0,2,1,0
+Soul Reaver 2|209,Soul Reaver 2,Raziel,narration,explicit_vo,NA,50,0,1,0,1,0,0,1,0
+Soul Reaver 2|211,Soul Reaver 2,Raziel,narration,explicit_vo,NA,66,0,3,0,2,1,0,1,1
+Soul Reaver 2|213,Soul Reaver 2,Raziel,narration,explicit_vo,NA,48,2,1,0,2,1,1,0,0
+Soul Reaver 2|217,Soul Reaver 2,Raziel,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Soul Reaver 2|222,Soul Reaver 2,Raziel,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Soul Reaver 2|225,Soul Reaver 2,Raziel,dialogue,none,NA,12,0,0,1,0,1,0,0,1
+Soul Reaver 2|228,Soul Reaver 2,Raziel,dialogue,none,NA,9,0,1,0,0,0,1,1,1
+Soul Reaver 2|233,Soul Reaver 2,Raziel,dialogue,none,NA,22,0,0,0,0,0,0,0,0
+Soul Reaver 2|239,Soul Reaver 2,Raziel,narration,explicit_vo,NA,77,1,2,1,2,0,0,1,3
+Soul Reaver 2|242,Soul Reaver 2,Raziel,dialogue,none,NA,27,0,0,0,1,0,0,0,0
+Soul Reaver 2|244,Soul Reaver 2,Raziel,dialogue,none,NA,16,0,0,0,1,0,1,0,1
+Soul Reaver 2|246,Soul Reaver 2,Raziel,dialogue,none,NA,10,0,0,0,0,0,0,0,0
+Soul Reaver 2|248,Soul Reaver 2,Raziel,narration,explicit_vo,NA,34,1,0,1,3,0,3,0,1
+Soul Reaver 2|250,Soul Reaver 2,Raziel,narration,explicit_vo,NA,40,1,2,1,1,2,0,1,1
+Soul Reaver 2|253,Soul Reaver 2,Raziel,dialogue,none,NA,3,0,0,0,0,0,0,0,1
+Soul Reaver 2|255,Soul Reaver 2,Kain,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|257,Soul Reaver 2,Kain,dialogue,model,0.1286,35,1,1,0,2,1,2,0,0
+Soul Reaver 2|259,Soul Reaver 2,Raziel,dialogue,none,NA,49,1,0,1,1,0,1,0,1
+Soul Reaver 2|261,Soul Reaver 2,Kain,dialogue,model,0.2729,6,0,0,0,0,0,0,0,0
+Soul Reaver 2|263,Soul Reaver 2,Raziel,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Soul Reaver 2|264,Soul Reaver 2,Kain,dialogue,constraint,NA,88,1,2,0,0,1,0,1,2
+Soul Reaver 2|266,Soul Reaver 2,Kain,dialogue,model,0.336,5,1,0,2,1,0,1,0,0
+Soul Reaver 2|268,Soul Reaver 2,Kain,dialogue,constraint,0.7189,20,1,1,1,1,1,0,1,0
+Soul Reaver 2|270,Soul Reaver 2,Kain,dialogue,constraint,0.9443,54,1,3,1,4,2,1,3,2
+Soul Reaver 2|272,Soul Reaver 2,Raziel,dialogue,none,NA,6,0,1,0,1,0,0,1,1
+Soul Reaver 2|274,Soul Reaver 2,Kain,dialogue,constraint,0.9394,48,6,1,2,6,2,4,1,2
+Soul Reaver 2|276,Soul Reaver 2,Kain,dialogue,model,0.2817,11,0,0,0,0,0,0,0,0
+Soul Reaver 2|278,Soul Reaver 2,Kain,dialogue,constraint,0.9535,54,2,2,1,2,1,0,0,1
+Soul Reaver 2|280,Soul Reaver 2,Raziel,dialogue,none,NA,4,0,1,0,1,0,0,1,0
+Soul Reaver 2|281,Soul Reaver 2,Kain,dialogue,model,0.03,18,1,0,0,1,0,0,0,0
+Soul Reaver 2|283,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|285,Soul Reaver 2,Raziel,dialogue,none,NA,17,0,0,0,1,0,1,0,0
+Soul Reaver 2|287,Soul Reaver 2,Kain,dialogue,model,0.0022,5,0,0,0,0,0,0,0,0
+Soul Reaver 2|289,Soul Reaver 2,Raziel,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|291,Soul Reaver 2,Kain,dialogue,model,0.0553,26,0,0,0,0,0,0,0,0
+Soul Reaver 2|293,Soul Reaver 2,Kain,dialogue,constraint,NA,69,0,3,0,1,0,1,0,2
+Soul Reaver 2|295,Soul Reaver 2,Raziel,dialogue,none,NA,3,1,0,0,1,0,0,0,0
+Soul Reaver 2|296,Soul Reaver 2,Kain,dialogue,constraint,NA,18,1,0,0,1,0,0,0,0
+Soul Reaver 2|298,Soul Reaver 2,Raziel,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|299,Soul Reaver 2,Kain,dialogue,model,0.0361,21,0,0,0,0,0,0,0,0
+Soul Reaver 2|301,Soul Reaver 2,Kain,dialogue,model,0.0686,3,0,0,0,0,0,0,0,0
+Soul Reaver 2|303,Soul Reaver 2,Raziel,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Soul Reaver 2|304,Soul Reaver 2,Kain,dialogue,model,0.1246,34,0,1,0,0,0,0,0,0
+Soul Reaver 2|306,Soul Reaver 2,Kain,dialogue,constraint,0.8749,35,0,1,0,0,0,0,0,1
+Soul Reaver 2|308,Soul Reaver 2,Raziel,dialogue,none,NA,58,0,1,0,0,2,0,0,3
+Soul Reaver 2|310,Soul Reaver 2,Kain,dialogue,model,0.0337,19,0,0,0,0,0,0,0,1
+Soul Reaver 2|312,Soul Reaver 2,Raziel,dialogue,none,NA,14,1,1,1,0,1,1,1,2
+Soul Reaver 2|313,Soul Reaver 2,Kain,dialogue,model,0.1148,31,0,3,0,1,2,0,0,2
+Soul Reaver 2|315,Soul Reaver 2,Kain,dialogue,model,0.0418,22,0,0,0,0,0,0,0,1
+Soul Reaver 2|318,Soul Reaver 2,Raziel,dialogue,none,NA,58,1,0,0,1,0,0,0,0
+Soul Reaver 2|321,Soul Reaver 2,Raziel,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Soul Reaver 2|323,Soul Reaver 2,Raziel,dialogue,none,NA,132,1,2,1,3,2,2,1,6
+Soul Reaver 2|325,Soul Reaver 2,Raziel,dialogue,none,NA,23,0,0,0,1,0,1,0,0
+Soul Reaver 2|331,Soul Reaver 2,Raziel,dialogue,none,NA,46,0,2,1,2,1,1,1,0
+Soul Reaver 2|334,Soul Reaver 2,Raziel,dialogue,none,NA,14,0,0,1,1,0,0,0,0
+Soul Reaver 2|336,Soul Reaver 2,Raziel,dialogue,none,NA,35,1,1,0,1,0,0,0,1
+Soul Reaver 2|339,Soul Reaver 2,Raziel,dialogue,none,NA,8,0,0,0,1,0,1,0,1
+Soul Reaver 2|342,Soul Reaver 2,Raziel,dialogue,none,NA,13,0,0,1,1,0,2,0,0
+Soul Reaver 2|345,Soul Reaver 2,Raziel,narration,explicit_vo,NA,20,2,1,0,2,0,2,1,0
+Soul Reaver 2|347,Soul Reaver 2,Raziel,narration,explicit_vo,NA,187,8,7,6,10,2,5,2,4
+Soul Reaver 2|351,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,1,0,0,1,0,0
+Soul Reaver 2|353,Soul Reaver 2,Raziel,dialogue,none,NA,24,1,0,1,1,0,1,1,0
+Soul Reaver 2|355,Soul Reaver 2,Raziel,dialogue,none,NA,8,0,0,0,0,0,0,0,1
+Soul Reaver 2|357,Soul Reaver 2,Raziel,dialogue,none,NA,58,2,1,1,1,0,1,0,0
+Soul Reaver 2|359,Soul Reaver 2,Raziel,dialogue,none,NA,94,0,2,1,2,1,1,1,1
+Soul Reaver 2|363,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,1,0,1,0,0,0,0
+Soul Reaver 2|365,Soul Reaver 2,Raziel,dialogue,none,NA,8,1,0,1,1,0,1,1,0
+Soul Reaver 2|368,Soul Reaver 2,Raziel,narration,explicit_vo,NA,62,3,2,2,2,1,3,2,2
+Soul Reaver 2|373,Soul Reaver 2,Raziel,dialogue,none,NA,62,3,0,2,3,0,3,0,1
+Soul Reaver 2|377,Soul Reaver 2,Raziel,dialogue,none,NA,48,2,0,0,2,0,1,1,1
+Soul Reaver 2|379,Soul Reaver 2,Raziel,dialogue,none,NA,39,1,3,1,2,0,2,1,0
+Soul Reaver 2|382,Soul Reaver 2,Raziel,dialogue,none,NA,55,1,0,1,2,0,2,0,1
+Soul Reaver 2|385,Soul Reaver 2,Raziel,dialogue,none,NA,33,0,3,1,2,1,1,1,1
+Soul Reaver 2|389,Soul Reaver 2,Raziel,dialogue,none,NA,62,6,1,3,4,0,4,0,0
+Soul Reaver 2|390,Soul Reaver 2,Raziel,dialogue,none,NA,34,1,1,1,1,0,0,0,0
+Soul Reaver 2|394,Soul Reaver 2,Raziel,dialogue,none,NA,23,1,0,2,2,0,1,0,0
+Soul Reaver 2|396,Soul Reaver 2,Raziel,narration,explicit_vo,NA,46,1,2,1,1,1,1,1,2
+Soul Reaver 2|398,Soul Reaver 2,Raziel,dialogue,none,NA,34,0,3,0,1,0,0,0,0
+Soul Reaver 2|401,Soul Reaver 2,Raziel,dialogue,none,NA,53,4,1,2,5,1,3,0,2
+Soul Reaver 2|405,Soul Reaver 2,Raziel,narration,explicit_vo,NA,20,0,1,0,0,0,0,0,0
+Soul Reaver 2|407,Soul Reaver 2,Raziel,dialogue,none,NA,21,1,1,2,1,0,1,0,0
+Soul Reaver 2|408,Soul Reaver 2,Raziel,dialogue,none,NA,22,0,1,0,0,0,0,0,0
+Soul Reaver 2|410,Soul Reaver 2,Kain,dialogue,model,0.0701,4,0,1,0,0,0,0,0,0
+Soul Reaver 2|412,Soul Reaver 2,Kain,dialogue,model,0.0141,11,0,0,0,0,0,0,1,0
+Soul Reaver 2|413,Soul Reaver 2,Raziel,dialogue,none,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver 2|415,Soul Reaver 2,Kain,dialogue,model,0.0654,22,0,0,0,0,0,0,0,0
+Soul Reaver 2|416,Soul Reaver 2,Raziel,dialogue,none,NA,23,1,0,0,1,0,1,0,0
+Soul Reaver 2|417,Soul Reaver 2,Raziel,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Soul Reaver 2|418,Soul Reaver 2,Kain,dialogue,model,0.0111,11,0,0,0,0,0,0,0,0
+Soul Reaver 2|419,Soul Reaver 2,Raziel,dialogue,none,NA,49,0,0,0,4,0,4,1,1
+Soul Reaver 2|420,Soul Reaver 2,Kain,dialogue,model,0.0033,5,0,0,0,0,0,0,1,0
+Soul Reaver 2|421,Soul Reaver 2,Raziel,dialogue,none,NA,41,1,0,1,2,0,0,0,0
+Soul Reaver 2|422,Soul Reaver 2,Kain,dialogue,model,0.1371,37,0,0,0,0,0,0,0,0
+Soul Reaver 2|423,Soul Reaver 2,Raziel,dialogue,none,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver 2|425,Soul Reaver 2,Kain,dialogue,model,0.3282,65,1,0,0,1,0,2,0,0
+Soul Reaver 2|426,Soul Reaver 2,Raziel,dialogue,none,NA,10,0,0,0,1,0,0,0,0
+Soul Reaver 2|427,Soul Reaver 2,Kain,dialogue,constraint,0.7844,27,1,0,0,1,0,0,0,0
+Soul Reaver 2|430,Soul Reaver 2,Raziel,narration,explicit_vo,NA,122,3,3,2,3,0,4,1,3
+Soul Reaver 2|432,Soul Reaver 2,Raziel,narration,explicit_vo,NA,46,4,2,2,4,0,1,1,1
+Soul Reaver 2|434,Soul Reaver 2,Raziel,narration,explicit_vo,NA,54,3,2,2,4,0,3,1,0
+Soul Reaver 2|436,Soul Reaver 2,Raziel,narration,explicit_vo,NA,60,1,2,0,1,1,0,0,3
+Soul Reaver 2|439,Soul Reaver 2,Raziel,narration,explicit_vo,NA,82,1,4,0,2,2,0,2,1
+Soul Reaver 2|441,Soul Reaver 2,Raziel,dialogue,none,NA,32,3,0,1,3,1,2,0,2
+Soul Reaver 2|443,Soul Reaver 2,Raziel,dialogue,none,NA,82,3,1,3,4,1,5,1,4
+Soul Reaver 2|445,Soul Reaver 2,Raziel,dialogue,none,NA,115,2,4,2,5,3,4,2,4
+Soul Reaver 2|447,Soul Reaver 2,Raziel,dialogue,none,NA,119,3,4,4,5,1,3,2,4
+Soul Reaver 2|450,Soul Reaver 2,Raziel,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|455,Soul Reaver 2,Raziel,dialogue,none,NA,22,1,0,1,1,0,1,0,0
+Soul Reaver 2|459,Soul Reaver 2,Raziel,dialogue,none,NA,11,0,0,0,0,0,0,0,1
+Soul Reaver 2|465,Soul Reaver 2,Raziel,dialogue,none,NA,17,0,0,0,0,0,0,0,0
+Soul Reaver 2|472,Soul Reaver 2,Raziel,dialogue,none,NA,11,0,0,0,0,0,0,0,0
+Soul Reaver 2|474,Soul Reaver 2,Raziel,dialogue,none,NA,14,2,0,1,2,0,3,0,0
+Soul Reaver 2|477,Soul Reaver 2,Raziel,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|479,Soul Reaver 2,Raziel,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Soul Reaver 2|482,Soul Reaver 2,Raziel,dialogue,none,NA,23,1,0,1,2,1,0,0,1
+Soul Reaver 2|485,Soul Reaver 2,Raziel,dialogue,none,NA,10,0,0,0,1,0,1,0,1
+Soul Reaver 2|492,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|495,Soul Reaver 2,Raziel,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Soul Reaver 2|498,Soul Reaver 2,Raziel,narration,explicit_vo,NA,40,0,1,0,1,0,0,2,0
+Soul Reaver 2|500,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|506,Soul Reaver 2,Raziel,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Soul Reaver 2|508,Soul Reaver 2,Raziel,narration,explicit_vo,NA,180,4,5,2,5,3,1,3,4
+Soul Reaver 2|510,Soul Reaver 2,Raziel,narration,explicit_vo,NA,34,3,1,0,2,1,0,1,1
+Soul Reaver 2|523,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|525,Soul Reaver 2,Raziel,narration,explicit_vo,NA,63,0,1,1,0,0,1,0,1
+Soul Reaver 2|527,Soul Reaver 2,Raziel,narration,explicit_vo,NA,102,5,3,6,6,3,4,4,4
+Soul Reaver 2|531,Soul Reaver 2,Raziel,narration,explicit_vo,NA,59,3,0,3,2,0,2,0,0
+Soul Reaver 2|542,Soul Reaver 2,Raziel,dialogue,none,NA,129,3,1,2,5,2,5,0,6
+Soul Reaver 2|547,Soul Reaver 2,Raziel,narration,explicit_vo,NA,74,0,1,1,2,0,0,1,1
+Soul Reaver 2|551,Soul Reaver 2,Raziel,dialogue,none,NA,7,0,0,0,0,1,0,0,0
+Soul Reaver 2|561,Soul Reaver 2,Raziel,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Soul Reaver 2|566,Soul Reaver 2,Raziel,narration,explicit_vo,NA,93,2,2,1,3,1,5,2,3
+Soul Reaver 2|568,Soul Reaver 2,Raziel,narration,explicit_vo,NA,60,0,1,1,3,0,1,1,1
+Soul Reaver 2|570,Soul Reaver 2,Raziel,narration,explicit_vo,NA,37,1,0,1,1,0,0,0,0
+Soul Reaver 2|575,Soul Reaver 2,Raziel,narration,explicit_vo,NA,87,1,3,1,1,1,0,1,1
+Soul Reaver 2|577,Soul Reaver 2,Raziel,narration,explicit_vo,NA,81,2,2,3,1,0,3,1,0
+Soul Reaver 2|582,Soul Reaver 2,Raziel,narration,explicit_vo,NA,76,2,2,3,1,3,1,1,2
+Soul Reaver 2|586,Soul Reaver 2,Raziel,narration,explicit_vo,NA,48,3,1,1,4,0,2,1,2
+Soul Reaver 2|588,Soul Reaver 2,Raziel,dialogue,none,NA,23,0,0,0,1,0,1,0,0
+Soul Reaver 2|589,Soul Reaver 2,Raziel,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Soul Reaver 2|597,Soul Reaver 2,Raziel,narration,explicit_vo,NA,63,4,1,1,5,0,5,0,0
+Soul Reaver 2|600,Soul Reaver 2,Raziel,narration,explicit_vo,NA,71,6,0,2,5,0,6,0,0
+Soul Reaver 2|602,Soul Reaver 2,Raziel,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Soul Reaver 2|604,Soul Reaver 2,Raziel,dialogue,none,NA,5,0,1,0,0,1,0,0,1
+Soul Reaver 2|606,Soul Reaver 2,Kain,dialogue,model,0.025,2,0,0,0,0,0,0,0,1
+Soul Reaver 2|608,Soul Reaver 2,Raziel,narration,explicit_vo,NA,23,1,0,0,0,0,1,0,0
+Soul Reaver 2|610,Soul Reaver 2,Raziel,narration,explicit_vo,NA,63,0,2,0,1,1,0,1,1
+Soul Reaver 2|614,Soul Reaver 2,Kain,dialogue,model,0.0096,10,0,0,0,0,0,0,0,0
+Soul Reaver 2|616,Soul Reaver 2,Raziel,narration,explicit_vo,NA,56,4,2,2,3,0,4,1,0
+Soul Reaver 2|619,Soul Reaver 2,Kain,dialogue,model,0.0786,5,0,0,0,0,0,0,0,0
+Blood Omen 2|3,Blood Omen 2,Kain,narration,explicit_paren,NA,37,0,2,0,1,1,1,0,1
+Blood Omen 2|6,Blood Omen 2,Kain,narration,explicit_paren,NA,8,0,0,0,0,0,1,0,0
+Blood Omen 2|7,Blood Omen 2,Kain,dialogue,explicit_paren,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|10,Blood Omen 2,Kain,dialogue,none,NA,11,0,0,0,0,0,0,0,0
+Blood Omen 2|12,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|15,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|20,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,1,0,0
+Blood Omen 2|22,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|26,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|28,Blood Omen 2,Kain,dialogue,none,NA,7,0,1,0,0,1,0,1,1
+Blood Omen 2|30,Blood Omen 2,Kain,dialogue,none,NA,17,0,0,0,0,0,0,0,0
+Blood Omen 2|32,Blood Omen 2,Kain,dialogue,none,NA,22,0,1,0,0,3,0,2,1
+Blood Omen 2|34,Blood Omen 2,Kain,dialogue,none,NA,14,0,0,0,0,0,1,0,1
+Blood Omen 2|36,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,1
+Blood Omen 2|40,Blood Omen 2,Kain,dialogue,none,NA,28,1,0,1,2,0,1,0,1
+Blood Omen 2|43,Blood Omen 2,Kain,dialogue,none,NA,9,1,0,1,1,0,1,0,0
+Blood Omen 2|45,Blood Omen 2,Kain,dialogue,none,NA,5,1,1,0,1,1,1,0,1
+Blood Omen 2|47,Blood Omen 2,Kain,dialogue,none,NA,10,0,0,0,0,1,0,0,1
+Blood Omen 2|49,Blood Omen 2,Kain,dialogue,explicit_paren,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|50,Blood Omen 2,Kain,narration,explicit_paren,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|52,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|56,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|58,Blood Omen 2,Kain,dialogue,explicit_paren,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|59,Blood Omen 2,Kain,narration,explicit_paren,NA,14,0,0,0,0,0,0,0,1
+Blood Omen 2|63,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|65,Blood Omen 2,Kain,dialogue,none,NA,8,0,1,0,0,0,0,0,0
+Blood Omen 2|70,Blood Omen 2,Kain,narration,explicit_paren,NA,11,0,0,0,1,0,1,0,0
+Blood Omen 2|72,Blood Omen 2,Kain,dialogue,none,NA,5,0,1,0,0,0,0,0,0
+Blood Omen 2|74,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|76,Blood Omen 2,Kain,dialogue,none,NA,11,1,0,0,0,0,0,0,1
+Blood Omen 2|81,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|88,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|104,Blood Omen 2,Kain,dialogue,none,NA,6,0,1,0,1,0,0,1,0
+Blood Omen 2|109,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|111,Blood Omen 2,Kain,dialogue,none,NA,11,0,0,0,0,0,1,1,0
+Blood Omen 2|115,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|117,Blood Omen 2,Kain,narration,explicit_paren,NA,20,0,1,0,0,0,0,0,0
+Blood Omen 2|133,Blood Omen 2,Kain,narration,explicit_paren,NA,52,1,1,1,1,1,1,0,1
+Blood Omen 2|135,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|137,Blood Omen 2,Kain,dialogue,none,NA,13,0,0,0,0,0,0,0,0
+Blood Omen 2|140,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Blood Omen 2|142,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,1,0,1,0,0
+Blood Omen 2|145,Blood Omen 2,Kain,dialogue,none,NA,10,1,1,0,0,0,0,0,1
+Blood Omen 2|149,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|151,Blood Omen 2,Kain,dialogue,none,NA,15,0,0,0,0,0,0,0,0
+Blood Omen 2|153,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|157,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|159,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|161,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|163,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|168,Blood Omen 2,Kain,narration,explicit_paren,NA,22,2,0,1,1,0,2,0,0
+Blood Omen 2|169,Blood Omen 2,Kain,dialogue,explicit_paren,NA,15,0,0,0,0,1,0,0,2
+Blood Omen 2|171,Blood Omen 2,Kain,dialogue,none,NA,21,1,0,0,1,0,1,0,0
+Blood Omen 2|173,Blood Omen 2,Kain,dialogue,none,NA,11,0,1,0,0,1,0,0,2
+Blood Omen 2|175,Blood Omen 2,Kain,dialogue,none,NA,17,0,0,0,0,0,1,0,0
+Blood Omen 2|181,Blood Omen 2,Kain,dialogue,none,NA,14,0,1,0,1,0,0,1,1
+Blood Omen 2|184,Blood Omen 2,Kain,dialogue,none,NA,13,0,1,1,0,0,0,0,1
+Blood Omen 2|187,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,1,0,0,0,0,1
+Blood Omen 2|189,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,1,0,0
+Blood Omen 2|191,Blood Omen 2,Kain,dialogue,none,NA,5,0,1,0,0,1,0,0,1
+Blood Omen 2|194,Blood Omen 2,Kain,narration,explicit_paren,NA,23,0,1,0,1,0,0,0,2
+Blood Omen 2|198,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|200,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|202,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|205,Blood Omen 2,Kain,dialogue,none,NA,13,0,0,0,0,0,0,0,0
+Blood Omen 2|207,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|209,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|213,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|215,Blood Omen 2,Kain,dialogue,none,NA,4,0,1,0,0,2,0,1,2
+Blood Omen 2|217,Blood Omen 2,Kain,dialogue,none,NA,11,1,0,0,0,0,0,0,0
+Blood Omen 2|219,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|221,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|223,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|226,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|232,Blood Omen 2,Kain,dialogue,none,NA,8,1,1,1,1,0,2,1,0
+Blood Omen 2|234,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,1,1,0,0,0,0
+Blood Omen 2|236,Blood Omen 2,Kain,dialogue,none,NA,1,0,1,0,0,0,0,0,0
+Blood Omen 2|239,Blood Omen 2,Kain,dialogue,none,NA,13,3,0,3,3,0,0,0,0
+Blood Omen 2|241,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,1
+Blood Omen 2|244,Blood Omen 2,Kain,narration,explicit_paren,NA,26,0,0,0,0,0,0,0,1
+Blood Omen 2|245,Blood Omen 2,Kain,dialogue,explicit_paren,NA,16,1,0,0,0,0,0,0,1
+Blood Omen 2|248,Blood Omen 2,Kain,dialogue,none,NA,17,0,1,0,0,1,0,1,0
+Blood Omen 2|250,Blood Omen 2,Kain,dialogue,none,NA,31,1,1,0,1,0,1,0,0
+Blood Omen 2|252,Blood Omen 2,Kain,dialogue,none,NA,10,1,0,1,1,1,1,0,1
+Blood Omen 2|265,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|267,Blood Omen 2,Kain,dialogue,none,NA,10,0,1,0,0,1,0,1,1
+Blood Omen 2|269,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|271,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|275,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,1,0,0,1
+Blood Omen 2|277,Blood Omen 2,Kain,dialogue,none,NA,15,0,1,1,0,0,0,0,1
+Blood Omen 2|279,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|281,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|285,Blood Omen 2,Kain,dialogue,none,NA,29,0,2,1,4,1,3,0,2
+Blood Omen 2|289,Blood Omen 2,Kain,dialogue,none,NA,29,0,0,1,0,0,1,0,1
+Blood Omen 2|291,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,1,0
+Blood Omen 2|293,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|311,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|313,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|315,Blood Omen 2,Kain,dialogue,none,NA,10,0,0,0,0,0,0,0,0
+Blood Omen 2|317,Blood Omen 2,Kain,dialogue,none,NA,35,2,1,1,1,0,1,1,1
+Blood Omen 2|319,Blood Omen 2,Kain,dialogue,none,NA,11,0,0,0,0,1,0,0,2
+Blood Omen 2|321,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,2
+Blood Omen 2|323,Blood Omen 2,Kain,dialogue,none,NA,5,0,1,0,0,1,0,1,1
+Blood Omen 2|325,Blood Omen 2,Kain,dialogue,none,NA,12,0,0,0,0,0,0,0,0
+Blood Omen 2|327,Blood Omen 2,Kain,dialogue,none,NA,22,0,1,0,0,0,0,0,0
+Blood Omen 2|329,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|332,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|334,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Blood Omen 2|336,Blood Omen 2,Kain,dialogue,none,NA,31,1,1,0,1,0,1,0,0
+Blood Omen 2|338,Blood Omen 2,Kain,dialogue,none,NA,23,0,0,1,1,0,0,1,1
+Blood Omen 2|340,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|342,Blood Omen 2,Kain,dialogue,none,NA,28,0,1,0,1,1,1,0,0
+Blood Omen 2|348,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|350,Blood Omen 2,Kain,dialogue,none,NA,5,1,0,0,0,0,0,0,1
+Blood Omen 2|352,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,1,0,0,0,0,1
+Blood Omen 2|354,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,1,0,0,0,0
+Blood Omen 2|356,Blood Omen 2,Kain,narration,explicit_paren,NA,37,1,0,2,1,0,1,0,0
+Blood Omen 2|360,Blood Omen 2,Kain,dialogue,none,NA,11,0,0,0,1,0,0,0,0
+Blood Omen 2|362,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|364,Blood Omen 2,Kain,dialogue,none,NA,8,0,1,0,0,1,0,1,1
+Blood Omen 2|366,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|368,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|370,Blood Omen 2,Kain,dialogue,none,NA,15,0,0,1,0,0,0,0,1
+Blood Omen 2|373,Blood Omen 2,Kain,dialogue,none,NA,7,1,0,0,1,0,1,0,0
+Blood Omen 2|375,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|383,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|386,Blood Omen 2,Kain,dialogue,none,NA,18,0,0,0,1,0,1,0,0
+Blood Omen 2|388,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,1
+Blood Omen 2|390,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,1,1,0,0,1
+Blood Omen 2|392,Blood Omen 2,Kain,dialogue,none,NA,6,0,1,0,0,0,0,0,0
+Blood Omen 2|394,Blood Omen 2,Kain,dialogue,none,NA,2,1,0,0,1,0,1,0,0
+Blood Omen 2|398,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|401,Blood Omen 2,Kain,narration,explicit_paren,NA,19,2,0,2,2,0,0,0,0
+Blood Omen 2|403,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|405,Blood Omen 2,Kain,dialogue,none,NA,6,1,0,0,0,0,1,0,0
+Blood Omen 2|408,Blood Omen 2,Kain,dialogue,none,NA,2,1,0,1,2,0,1,0,0
+Blood Omen 2|414,Blood Omen 2,Kain,dialogue,none,NA,9,1,0,2,1,0,1,0,0
+Blood Omen 2|419,Blood Omen 2,Kain,dialogue,none,NA,13,0,0,1,0,0,0,0,1
+Blood Omen 2|425,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,1
+Blood Omen 2|427,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|429,Blood Omen 2,Kain,dialogue,none,NA,14,1,0,0,1,0,1,0,0
+Blood Omen 2|431,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|433,Blood Omen 2,Kain,dialogue,none,NA,30,1,0,0,1,0,1,0,1
+Blood Omen 2|435,Blood Omen 2,Kain,dialogue,none,NA,16,0,0,0,0,0,0,0,1
+Blood Omen 2|438,Blood Omen 2,Kain,dialogue,none,NA,12,1,0,0,0,0,0,0,0
+Blood Omen 2|440,Blood Omen 2,Kain,narration,explicit_paren,NA,45,2,2,0,2,1,1,0,4
+Blood Omen 2|445,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,1
+Blood Omen 2|447,Blood Omen 2,Kain,narration,explicit_paren,NA,42,0,1,1,0,2,0,1,5
+Blood Omen 2|460,Blood Omen 2,Kain,narration,explicit_paren,NA,22,1,0,1,1,0,0,0,0
+Blood Omen 2|461,Blood Omen 2,Kain,dialogue,explicit_paren,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|463,Blood Omen 2,Kain,dialogue,none,NA,42,3,1,1,3,0,1,1,1
+Blood Omen 2|465,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|468,Blood Omen 2,Kain,dialogue,none,NA,32,1,0,3,2,1,2,0,1
+Blood Omen 2|475,Blood Omen 2,Kain,dialogue,none,NA,21,1,0,0,0,0,0,0,0
+Blood Omen 2|477,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,1,0,1,0,0
+Blood Omen 2|479,Blood Omen 2,Kain,dialogue,none,NA,14,0,0,1,0,0,0,0,2
+Blood Omen 2|481,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Blood Omen 2|483,Blood Omen 2,Kain,dialogue,none,NA,51,1,4,1,2,1,2,2,1
+Blood Omen 2|486,Blood Omen 2,Kain,dialogue,none,NA,10,0,0,0,0,0,0,0,0
+Blood Omen 2|488,Blood Omen 2,Kain,dialogue,none,NA,58,1,1,2,1,2,0,0,3
+Blood Omen 2|490,Blood Omen 2,Kain,dialogue,none,NA,16,0,0,0,1,0,1,0,1
+Blood Omen 2|492,Blood Omen 2,Kain,dialogue,none,NA,17,0,2,0,1,1,0,1,1
+Blood Omen 2|514,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|516,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|518,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|520,Blood Omen 2,Kain,dialogue,none,NA,16,0,1,0,0,0,0,0,0
+Blood Omen 2|522,Blood Omen 2,Kain,dialogue,none,NA,17,0,0,0,0,0,0,0,0
+Blood Omen 2|524,Blood Omen 2,Kain,dialogue,none,NA,6,1,0,1,1,0,0,0,0
+Blood Omen 2|528,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|532,Blood Omen 2,Kain,dialogue,none,NA,15,1,0,2,2,0,0,0,0
+Blood Omen 2|548,Blood Omen 2,Kain,dialogue,none,NA,13,0,1,0,1,0,0,0,0
+Blood Omen 2|551,Blood Omen 2,Kain,narration,explicit_paren,NA,34,0,0,1,1,0,0,0,1
+Blood Omen 2|554,Blood Omen 2,Kain,dialogue,none,NA,19,0,1,0,1,1,0,1,1
+Blood Omen 2|556,Blood Omen 2,Kain,dialogue,none,NA,19,0,2,0,1,0,1,0,1
+Blood Omen 2|558,Blood Omen 2,Kain,dialogue,none,NA,14,0,0,0,0,0,0,0,0
+Blood Omen 2|560,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,1,0,0,0,0,1
+Blood Omen 2|562,Blood Omen 2,Kain,dialogue,none,NA,12,0,0,0,0,0,1,0,0
+Blood Omen 2|564,Blood Omen 2,Kain,dialogue,none,NA,24,1,0,0,1,0,1,0,0
+Blood Omen 2|567,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|569,Blood Omen 2,Kain,dialogue,none,NA,13,0,1,0,0,1,0,1,1
+Blood Omen 2|590,Blood Omen 2,Kain,dialogue,none,NA,4,1,0,1,1,0,1,0,0
+Blood Omen 2|592,Blood Omen 2,Kain,dialogue,none,NA,26,1,1,1,1,0,1,0,0
+Blood Omen 2|594,Blood Omen 2,Kain,dialogue,none,NA,17,0,0,0,0,0,0,0,1
+Blood Omen 2|596,Blood Omen 2,Kain,dialogue,none,NA,15,0,1,0,0,1,0,0,1
+Blood Omen 2|598,Blood Omen 2,Kain,dialogue,none,NA,14,0,0,1,1,0,0,0,0
+Blood Omen 2|600,Blood Omen 2,Kain,dialogue,none,NA,11,0,1,0,0,0,0,0,0
+Blood Omen 2|602,Blood Omen 2,Kain,dialogue,none,NA,30,0,1,1,0,0,0,0,1
+Blood Omen 2|604,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,1,1,0,0,0,0
+Blood Omen 2|606,Blood Omen 2,Kain,dialogue,none,NA,35,2,1,1,1,1,2,0,1
+Blood Omen 2|612,Blood Omen 2,Kain,dialogue,none,NA,4,1,0,1,1,0,1,1,0
+Blood Omen 2|614,Blood Omen 2,Kain,dialogue,none,NA,9,1,0,2,0,0,2,0,0
+Blood Omen 2|616,Blood Omen 2,Kain,dialogue,explicit_paren,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|617,Blood Omen 2,Kain,narration,explicit_paren,NA,25,2,1,0,2,1,1,1,0
+Blood Omen 2|618,Blood Omen 2,Kain,dialogue,explicit_paren,NA,14,1,1,2,1,1,1,1,2
+Blood Omen 2|620,Blood Omen 2,Kain,dialogue,none,NA,16,1,0,1,1,0,0,0,0
+Blood Omen 2|622,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|624,Blood Omen 2,Kain,dialogue,none,NA,34,1,4,1,1,3,1,1,2
+Blood Omen 2|627,Blood Omen 2,Kain,dialogue,none,NA,16,0,0,0,0,1,0,0,1
+Blood Omen 2|630,Blood Omen 2,Kain,dialogue,none,NA,22,1,2,1,1,1,1,2,0
+Blood Omen 2|632,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,1,1,0,0,0,0
+Blood Omen 2|634,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|637,Blood Omen 2,Kain,dialogue,none,NA,8,1,0,0,1,0,1,0,0
+Blood Omen 2|640,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,1,0,0,0,0,1
+Blood Omen 2|642,Blood Omen 2,Kain,dialogue,none,NA,10,0,1,0,0,2,0,0,1
+Blood Omen 2|644,Blood Omen 2,Kain,narration,explicit_paren,NA,67,4,1,6,5,1,3,1,1
+Blood Omen 2|647,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|649,Blood Omen 2,Kain,narration,explicit_paren,NA,13,1,0,1,1,0,0,0,0
+Blood Omen 2|650,Blood Omen 2,Kain,dialogue,explicit_paren,NA,10,0,0,0,0,0,0,0,0
+Blood Omen 2|652,Blood Omen 2,Kain,dialogue,none,NA,17,2,0,2,2,0,2,0,0
+Blood Omen 2|654,Blood Omen 2,Kain,dialogue,none,NA,12,0,1,0,0,0,0,0,1
+Blood Omen 2|656,Blood Omen 2,Kain,dialogue,none,NA,8,1,1,0,1,0,1,0,0
+Blood Omen 2|659,Blood Omen 2,Kain,dialogue,none,NA,11,0,0,1,1,0,1,0,1
+Blood Omen 2|661,Blood Omen 2,Kain,narration,explicit_paren,NA,41,0,0,0,1,0,0,0,0
+Blood Omen 2|663,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,1
+Blood Omen 2|665,Blood Omen 2,Kain,dialogue,none,NA,20,0,0,1,1,0,1,0,1
+Blood Omen 2|667,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,0,0,0,0,0
+Blood Omen 2|676,Blood Omen 2,Kain,dialogue,none,NA,15,0,1,0,0,0,0,0,1
+Blood Omen 2|678,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|680,Blood Omen 2,Kain,dialogue,none,NA,16,1,1,0,2,0,2,0,0
+Blood Omen 2|685,Blood Omen 2,Kain,dialogue,none,NA,15,0,0,0,0,0,0,0,0
+Blood Omen 2|689,Blood Omen 2,Kain,dialogue,none,NA,29,0,0,0,0,0,0,0,1
+Blood Omen 2|693,Blood Omen 2,Kain,dialogue,none,NA,22,0,0,0,1,0,0,0,3
+Blood Omen 2|698,Blood Omen 2,Kain,narration,explicit_paren,NA,22,0,0,0,0,1,0,0,1
+Blood Omen 2|701,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|703,Blood Omen 2,Kain,dialogue,none,NA,12,1,0,0,1,0,1,0,0
+Blood Omen 2|705,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|707,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|709,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Blood Omen 2|712,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|715,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,0,0,0,0
+Blood Omen 2|717,Blood Omen 2,Kain,dialogue,none,NA,2,0,1,0,0,0,0,0,1
+Blood Omen 2|719,Blood Omen 2,Kain,dialogue,none,NA,21,0,0,0,1,0,0,0,1
+Blood Omen 2|721,Blood Omen 2,Kain,dialogue,none,NA,33,4,2,2,1,0,1,2,1
+Blood Omen 2|731,Blood Omen 2,Kain,dialogue,none,NA,2,0,1,0,0,1,0,0,1
+Blood Omen 2|735,Blood Omen 2,Kain,dialogue,none,NA,2,1,0,0,1,0,0,0,0
+Blood Omen 2|738,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|740,Blood Omen 2,Kain,dialogue,none,NA,14,0,1,1,0,0,0,0,1
+Blood Omen 2|743,Blood Omen 2,Kain,dialogue,none,NA,2,0,0,0,0,0,0,0,0
+Blood Omen 2|746,Blood Omen 2,Kain,dialogue,none,NA,5,0,0,0,0,0,0,0,0
+Blood Omen 2|748,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|751,Blood Omen 2,Kain,dialogue,none,NA,11,0,1,0,0,1,0,0,0
+Blood Omen 2|753,Blood Omen 2,Kain,dialogue,none,NA,10,0,0,0,0,0,0,0,0
+Blood Omen 2|755,Blood Omen 2,Kain,dialogue,none,NA,7,0,0,0,1,0,1,0,1
+Blood Omen 2|758,Blood Omen 2,Kain,dialogue,none,NA,12,0,0,0,0,0,0,0,0
+Blood Omen 2|760,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|765,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|767,Blood Omen 2,Kain,dialogue,none,NA,22,1,0,1,1,0,1,0,0
+Blood Omen 2|769,Blood Omen 2,Kain,dialogue,none,NA,21,1,1,0,1,1,1,1,1
+Blood Omen 2|787,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|789,Blood Omen 2,Kain,dialogue,none,NA,15,0,0,0,1,0,0,0,0
+Blood Omen 2|794,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|798,Blood Omen 2,Kain,dialogue,none,NA,4,0,0,0,0,0,0,0,0
+Blood Omen 2|802,Blood Omen 2,Kain,dialogue,none,NA,10,0,1,0,0,1,0,0,1
+Blood Omen 2|806,Blood Omen 2,Kain,dialogue,explicit_paren,NA,17,0,0,0,0,0,0,0,1
+Blood Omen 2|807,Blood Omen 2,Kain,narration,explicit_paren,NA,20,0,1,0,0,0,0,1,0
+Blood Omen 2|810,Blood Omen 2,Kain,dialogue,none,NA,13,1,1,1,1,0,0,0,0
+Blood Omen 2|812,Blood Omen 2,Kain,dialogue,none,NA,1,0,0,0,0,1,0,0,1
+Blood Omen 2|814,Blood Omen 2,Kain,dialogue,none,NA,3,0,0,0,0,0,0,0,0
+Blood Omen 2|819,Blood Omen 2,Kain,dialogue,none,NA,6,0,0,0,0,0,0,0,0
+Blood Omen 2|821,Blood Omen 2,Kain,dialogue,none,NA,14,1,1,0,0,0,0,0,0
+Blood Omen 2|823,Blood Omen 2,Kain,dialogue,none,NA,14,0,1,0,0,1,0,1,1
+Blood Omen 2|825,Blood Omen 2,Kain,dialogue,none,NA,17,1,0,1,1,0,0,0,0
+Blood Omen 2|827,Blood Omen 2,Kain,dialogue,none,NA,22,0,2,0,0,0,0,0,2
+Blood Omen 2|829,Blood Omen 2,Kain,dialogue,none,NA,19,1,0,0,2,1,1,0,1
+Blood Omen 2|831,Blood Omen 2,Kain,dialogue,none,NA,16,0,3,1,0,1,0,1,2
+Blood Omen 2|836,Blood Omen 2,Kain,dialogue,none,NA,9,0,0,0,0,0,0,0,0
+Blood Omen 2|838,Blood Omen 2,Kain,narration,explicit_paren,NA,40,0,0,2,2,0,0,0,3
+Blood Omen 2|840,Blood Omen 2,Kain,dialogue,none,NA,8,1,0,1,1,0,1,0,0
+Blood Omen 2|843,Blood Omen 2,Kain,dialogue,none,NA,41,2,0,0,3,1,3,0,2
+Blood Omen 2|845,Blood Omen 2,Kain,dialogue,none,NA,16,2,2,1,2,0,2,1,0
+Blood Omen 2|847,Blood Omen 2,Kain,dialogue,none,NA,11,2,1,0,1,0,1,0,1
+Blood Omen 2|849,Blood Omen 2,Kain,dialogue,none,NA,30,2,0,2,2,0,2,0,0
+Blood Omen 2|851,Blood Omen 2,Kain,dialogue,none,NA,2,1,0,1,0,0,1,0,0
+Blood Omen 2|855,Blood Omen 2,Kain,dialogue,none,NA,8,0,0,0,0,0,0,0,0
+Blood Omen 2|879,Blood Omen 2,Kain,dialogue,none,NA,14,1,0,1,0,1,1,0,1
+Blood Omen 2|881,Blood Omen 2,Kain,dialogue,none,NA,9,0,1,1,0,0,0,0,0
+Blood Omen 2|883,Blood Omen 2,Kain,narration,explicit_paren,NA,19,1,0,0,0,0,0,0,0
+Blood Omen 2|885,Blood Omen 2,Kain,narration,explicit_paren,NA,87,2,0,1,3,1,1,0,1
+Defiance|1,Defiance,Kain,narration,model,0.8527,31,2,1,0,3,0,1,0,1
+Defiance|2,Defiance,Kain,narration,model,0.7911,23,1,1,1,2,1,2,0,3
+Defiance|3,Defiance,Kain,dialogue,model,0.1479,4,0,0,0,0,0,1,0,0
+Defiance|4,Defiance,Kain,narration,model,0.7461,21,0,1,0,1,0,0,0,0
+Defiance|9,Defiance,Kain,narration,model,0.7841,22,0,1,0,0,0,0,0,0
+Defiance|11,Defiance,Kain,dialogue,model,0.0071,8,0,0,0,0,0,0,0,0
+Defiance|13,Defiance,Kain,dialogue,model,0.0046,8,0,0,0,1,0,0,0,0
+Defiance|15,Defiance,Kain,dialogue,manual,NA,2,0,0,0,0,0,0,0,0
+Defiance|20,Defiance,Kain,narration,manual,NA,10,0,0,0,0,0,0,0,0
+Defiance|23,Defiance,Raziel,dialogue,model,0.0062,7,1,1,1,1,0,1,0,0
+Defiance|25,Defiance,Raziel,dialogue,model,0.1906,50,1,0,2,1,0,1,0,0
+Defiance|27,Defiance,Raziel,dialogue,model,0.0198,2,0,0,0,0,0,0,0,0
+Defiance|30,Defiance,Raziel,dialogue,model,0.0862,4,0,1,0,0,0,0,0,0
+Defiance|34,Defiance,Kain,dialogue,model,0.0173,15,0,0,0,0,0,0,0,1
+Defiance|36,Defiance,Kain,dialogue,model,0.1889,7,1,1,1,1,0,1,1,0
+Defiance|38,Defiance,Kain,dialogue,model,0.0029,6,0,1,0,0,0,0,0,1
+Defiance|40,Defiance,Kain,dialogue,model,0.0616,25,0,0,0,0,0,0,0,0
+Defiance|42,Defiance,Kain,dialogue,model,0.0214,14,0,0,0,0,0,0,0,0
+Defiance|44,Defiance,Kain,dialogue,model,0.0098,11,0,1,0,0,0,0,0,1
+Defiance|46,Defiance,Kain,dialogue,model,0.0016,4,0,0,0,0,0,0,0,0
+Defiance|48,Defiance,Raziel,narration,model,0.941,45,2,1,1,3,2,1,0,1
+Defiance|49,Defiance,Raziel,narration,model,0.9559,45,0,1,0,0,2,0,1,2
+Defiance|50,Defiance,Raziel,narration,model,0.9264,40,1,0,1,1,0,0,0,2
+Defiance|51,Defiance,Raziel,narration,model,0.9621,55,8,0,4,8,0,6,0,1
+Defiance|52,Defiance,Raziel,narration,model,0.9806,75,3,4,1,3,0,1,1,1
+Defiance|53,Defiance,Raziel,narration,model,0.9835,76,3,2,2,3,1,3,2,0
+Defiance|54,Defiance,Raziel,narration,model,0.9712,63,2,1,3,6,0,6,1,1
+Defiance|56,Defiance,Raziel,dialogue,model,0.0123,12,0,0,0,0,0,0,0,0
+Defiance|58,Defiance,Raziel,dialogue,model,0.0092,12,0,2,0,0,0,0,0,1
+Defiance|60,Defiance,Raziel,dialogue,model,0.0037,9,0,0,0,0,1,0,0,1
+Defiance|62,Defiance,Raziel,dialogue,model,0.012,11,1,0,1,0,0,1,0,0
+Defiance|64,Defiance,Raziel,dialogue,model,0.0047,6,0,0,0,0,0,0,0,0
+Defiance|66,Defiance,Raziel,dialogue,model,0.0257,16,1,1,1,1,0,1,1,0
+Defiance|68,Defiance,Raziel,dialogue,model,0.0473,23,1,1,0,2,1,1,1,1
+Defiance|70,Defiance,Raziel,dialogue,model,0.0192,15,0,1,1,0,1,2,1,1
+Defiance|72,Defiance,Raziel,dialogue,model,0.1267,5,1,1,1,1,0,0,0,0
+Defiance|74,Defiance,Raziel,dialogue,model,0.0725,5,0,0,0,0,0,0,0,0
+Defiance|76,Defiance,Raziel,narration,model,0.9434,38,3,2,1,1,1,1,1,1
+Defiance|77,Defiance,Kain,narration,model,0.9772,68,3,4,2,4,2,2,1,3
+Defiance|78,Defiance,Raziel,narration,model,0.9916,111,6,5,2,6,2,2,1,3
+Defiance|80,Defiance,Raziel,dialogue,model,0.0055,7,1,0,0,1,0,0,0,0
+Defiance|82,Defiance,Raziel,dialogue,model,0.0343,20,0,1,0,0,0,0,0,1
+Defiance|83,Defiance,Raziel,dialogue,model,0.0095,9,0,0,0,0,0,0,0,0
+Defiance|85,Defiance,Raziel,dialogue,model,0.0033,5,0,0,0,0,0,0,0,0
+Defiance|87,Defiance,Raziel,dialogue,model,0.0209,15,0,0,0,0,0,0,0,1
+Defiance|89,Defiance,Raziel,dialogue,model,0.0324,19,1,0,0,0,0,0,0,0
+Defiance|91,Defiance,Raziel,dialogue,model,0.0022,4,0,0,0,1,0,1,0,0
+Defiance|93,Defiance,Raziel,narration,model,0.8757,30,1,0,0,1,0,1,0,0
+Defiance|95,Defiance,Raziel,dialogue,model,0.0219,3,0,0,0,0,0,0,0,0
+Defiance|98,Defiance,Raziel,dialogue,manual,NA,14,0,0,0,1,0,1,0,0
+Defiance|100,Defiance,Raziel,dialogue,model,0.0165,11,0,0,0,0,0,0,0,0
+Defiance|104,Defiance,Raziel,dialogue,manual,NA,12,1,0,0,1,0,1,0,0
+Defiance|106,Defiance,Kain,narration,model,0.9924,114,5,3,3,4,1,4,3,1
+Defiance|107,Defiance,Kain,narration,model,0.9714,64,2,1,0,1,1,0,0,1
+Defiance|108,Defiance,Kain,narration,model,0.9393,45,1,1,2,2,2,2,1,2
+Defiance|110,Defiance,Kain,dialogue,model,0.0219,3,0,0,0,0,0,0,0,0
+Defiance|112,Defiance,Kain,dialogue,model,0.0342,3,0,0,0,0,0,0,0,0
+Defiance|116,Defiance,Kain,dialogue,model,0.0045,7,0,0,0,0,0,0,0,1
+Defiance|118,Defiance,Kain,dialogue,manual,NA,12,0,0,0,0,0,0,0,0
+Defiance|120,Defiance,Kain,narration,model,0.7769,21,0,0,0,0,0,0,0,0
+Defiance|121,Defiance,Kain,narration,model,0.8748,28,0,2,0,0,0,0,0,3
+Defiance|123,Defiance,Kain,dialogue,model,0.0855,5,1,0,1,1,0,0,0,0
+Defiance|125,Defiance,Raziel,narration,model,0.99,104,6,5,4,8,2,6,3,3
+Defiance|126,Defiance,Raziel,narration,model,0.9905,106,5,3,3,7,2,3,1,3
+Defiance|127,Defiance,Raziel,narration,model,0.938,44,1,3,0,2,2,1,1,3
+Defiance|133,Defiance,Raziel,narration,model,0.818,24,1,0,2,1,1,1,0,1
+Defiance|138,Defiance,Raziel,narration,model,0.8548,22,1,1,0,1,1,0,1,0
+Defiance|139,Defiance,Raziel,narration,model,0.6668,14,0,1,1,2,1,1,0,1
+Defiance|142,Defiance,Raziel,dialogue,model,0.0686,3,0,0,0,1,0,0,0,0
+Defiance|144,Defiance,Raziel,dialogue,model,0.2912,7,0,0,0,1,0,2,0,0
+Defiance|146,Defiance,Raziel,dialogue,model,0.3133,8,0,0,0,0,0,0,0,0
+Defiance|148,Defiance,Raziel,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Defiance|150,Defiance,Raziel,dialogue,model,0.2286,5,0,0,1,0,0,0,0,0
+Defiance|152,Defiance,Raziel,dialogue,model,0.0106,11,0,0,1,1,0,1,0,0
+Defiance|154,Defiance,Raziel,dialogue,model,0.1837,5,0,1,0,0,0,0,0,0
+Defiance|156,Defiance,Raziel,dialogue,model,0.0051,8,1,0,1,1,0,1,0,0
+Defiance|158,Defiance,Raziel,dialogue,model,0.0043,1,0,0,0,0,0,0,0,0
+Defiance|164,Defiance,Raziel,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Defiance|166,Defiance,Raziel,dialogue,model,0.1895,8,0,1,0,0,0,1,0,0
+Defiance|169,Defiance,Raziel,dialogue,model,0.0018,5,0,0,0,1,0,0,0,0
+Defiance|171,Defiance,Raziel,narration,model,0.6836,19,0,1,1,0,1,0,1,1
+Defiance|173,Defiance,Raziel,dialogue,model,0.1715,6,1,1,0,1,0,1,0,0
+Defiance|175,Defiance,Raziel,dialogue,model,0.0159,10,1,0,0,1,1,1,0,0
+Defiance|177,Defiance,Raziel,dialogue,model,0.012,11,1,0,0,1,0,1,0,0
+Defiance|179,Defiance,Raziel,dialogue,model,0.1126,7,0,0,0,0,0,0,0,0
+Defiance|182,Defiance,Raziel,dialogue,model,0.1058,6,0,0,0,1,1,0,1,0
+Defiance|183,Defiance,Kain,dialogue,model,0.0616,27,1,0,0,1,0,1,0,0
+Defiance|184,Defiance,Raziel,dialogue,model,0.015,13,0,0,0,0,0,0,0,0
+Defiance|185,Defiance,Kain,dialogue,model,0.0164,15,0,0,0,0,0,0,0,0
+Defiance|186,Defiance,Raziel,dialogue,model,0.0705,25,0,1,0,0,0,0,0,0
+Defiance|187,Defiance,Kain,narration,model,0.7704,27,0,0,0,0,0,0,0,1
+Defiance|188,Defiance,Raziel,dialogue,model,0.0321,20,0,1,0,0,1,0,1,0
+Defiance|189,Defiance,Kain,dialogue,model,0.012,11,0,0,0,0,0,0,0,0
+Defiance|190,Defiance,Raziel,dialogue,model,0.317,11,0,0,0,0,0,0,0,0
+Defiance|191,Defiance,Kain,dialogue,model,0.0197,16,0,0,0,0,0,0,0,1
+Defiance|192,Defiance,Raziel,dialogue,model,0.0014,5,0,0,0,0,0,0,0,1
+Defiance|193,Defiance,Kain,dialogue,model,0.0071,9,1,1,0,1,0,0,0,0
+Defiance|194,Defiance,Raziel,dialogue,model,0.0193,14,0,0,0,1,0,0,0,0
+Defiance|195,Defiance,Kain,dialogue,model,0.0525,17,0,0,0,0,0,0,0,0
+Defiance|196,Defiance,Raziel,dialogue,model,0.0172,13,0,0,0,0,0,0,0,0
+Defiance|197,Defiance,Kain,dialogue,model,0.1334,39,2,2,0,3,0,1,1,0
+Defiance|198,Defiance,Raziel,dialogue,model,0.0062,10,0,0,0,0,0,0,0,0
+Defiance|199,Defiance,Kain,dialogue,model,0.0417,4,0,0,0,0,0,0,0,0
+Defiance|200,Defiance,Raziel,dialogue,model,0.0212,15,0,0,0,0,0,0,0,1
+Defiance|201,Defiance,Kain,dialogue,model,0.1524,3,0,0,0,0,0,0,0,0
+Defiance|202,Defiance,Raziel,narration,model,0.6837,23,2,3,1,2,0,1,1,0
+Defiance|203,Defiance,Kain,dialogue,model,0.0066,9,1,0,1,1,0,0,0,0
+Defiance|204,Defiance,Raziel,dialogue,model,0.0207,16,2,0,0,1,0,0,0,0
+Defiance|205,Defiance,Raziel,narration,model,0.6646,18,2,0,0,1,1,0,0,1
+Defiance|206,Defiance,Kain,dialogue,model,0.0145,9,0,0,0,0,0,0,0,0
+Defiance|207,Defiance,Kain,dialogue,model,0.0372,20,1,0,0,2,0,1,1,0
+Defiance|208,Defiance,Raziel,dialogue,model,0.0038,8,0,0,0,0,0,0,0,0
+Defiance|209,Defiance,Kain,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Defiance|210,Defiance,Raziel,dialogue,model,0.0057,5,0,0,0,0,0,0,0,0
+Defiance|211,Defiance,Kain,dialogue,model,0.0589,24,0,0,1,1,0,0,0,0
+Defiance|212,Defiance,Raziel,dialogue,model,0.0238,16,0,1,0,0,0,0,0,0
+Defiance|213,Defiance,Kain,dialogue,model,0.0634,28,0,0,1,1,0,0,0,0
+Defiance|214,Defiance,Raziel,dialogue,model,0.0701,27,0,1,0,0,0,0,0,1
+Defiance|215,Defiance,Raziel,dialogue,model,0.055,21,0,0,1,1,0,0,0,0
+Defiance|216,Defiance,Raziel,dialogue,model,3e-4,1,0,0,0,0,0,0,0,0
+Defiance|217,Defiance,Kain,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Defiance|218,Defiance,Raziel,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Defiance|219,Defiance,Kain,dialogue,model,0.025,2,0,0,0,0,0,0,0,0
+Defiance|220,Defiance,Raziel,dialogue,model,0.0321,16,2,0,1,3,1,2,0,1
+Defiance|221,Defiance,Raziel,narration,model,0.9704,60,2,2,0,1,1,1,0,1
+Defiance|222,Defiance,Raziel,narration,model,0.9233,36,0,0,0,2,1,2,0,1
+Defiance|224,Defiance,Raziel,dialogue,model,0.0247,16,1,2,1,1,0,1,2,1
+Defiance|227,Defiance,Raziel,dialogue,model,0.1097,5,0,0,0,0,1,0,0,0
+Defiance|229,Defiance,Raziel,dialogue,model,0.0126,13,1,1,1,1,0,1,1,0
+Defiance|231,Defiance,Raziel,narration,model,0.7183,19,0,1,0,0,0,0,0,0
+Defiance|233,Defiance,Raziel,narration,manual,NA,16,1,0,0,0,0,1,0,0
+Defiance|236,Defiance,Raziel,dialogue,model,0.0177,12,0,1,0,0,0,0,0,0
+Defiance|238,Defiance,Raziel,dialogue,model,0.0274,16,0,1,0,0,0,0,0,0
+Defiance|240,Defiance,Raziel,dialogue,model,0.0338,22,0,0,0,0,0,0,0,0
+Defiance|242,Defiance,Raziel,dialogue,manual,NA,14,0,0,0,0,0,0,0,0
+Defiance|244,Defiance,Raziel,dialogue,model,0.0633,26,0,1,0,1,0,0,0,0
+Defiance|246,Defiance,Raziel,dialogue,model,0.0141,11,0,0,0,0,0,0,0,0
+Defiance|248,Defiance,Raziel,dialogue,model,0.0014,5,0,0,0,0,0,0,0,0
+Defiance|250,Defiance,Raziel,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Defiance|253,Defiance,Raziel,dialogue,model,0.3027,8,0,0,0,0,0,1,0,0
+Defiance|255,Defiance,Raziel,dialogue,model,0.0193,12,0,0,0,0,0,1,0,0
+Defiance|257,Defiance,Raziel,dialogue,manual,NA,13,0,0,0,0,0,0,0,0
+Defiance|259,Defiance,Raziel,dialogue,model,0.0111,8,0,1,0,0,0,0,0,0
+Defiance|261,Defiance,Raziel,dialogue,model,0.0091,7,1,0,1,1,0,1,0,0
+Defiance|263,Defiance,Raziel,dialogue,model,0.0014,3,0,0,0,0,0,0,0,0
+Defiance|265,Defiance,Raziel,dialogue,model,0.1895,8,0,0,0,0,0,0,0,0
+Defiance|267,Defiance,Raziel,dialogue,model,0.1413,6,0,0,0,0,0,0,0,0
+Defiance|270,Defiance,Raziel,dialogue,model,2e-4,2,0,0,0,0,0,0,0,0
+Defiance|273,Defiance,Raziel,narration,model,0.9797,73,1,3,1,2,2,1,1,2
+Defiance|274,Defiance,Raziel,dialogue,model,0.0332,4,0,0,0,0,0,0,0,0
+Defiance|279,Defiance,Raziel,dialogue,model,0.1267,5,0,0,0,0,0,0,0,0
+Defiance|281,Defiance,Raziel,dialogue,model,0.0127,13,0,0,0,0,0,0,0,0
+Defiance|284,Defiance,Raziel,dialogue,model,0.0086,1,0,0,0,0,0,0,0,0
+Defiance|286,Defiance,Raziel,dialogue,model,0.0025,6,1,0,1,1,0,1,0,0
+Defiance|288,Defiance,Raziel,dialogue,model,0.11,6,0,0,0,0,0,0,0,0
+Defiance|290,Defiance,Raziel,dialogue,model,0.018,13,1,1,0,1,1,0,0,1
+Defiance|292,Defiance,Kain,narration,model,0.9168,36,0,0,0,1,0,1,0,0
+Defiance|296,Defiance,Kain,dialogue,model,0.0461,4,0,0,0,0,0,0,0,0
+Defiance|303,Defiance,Kain,dialogue,model,0.0022,4,0,0,0,0,0,0,1,0
+Defiance|305,Defiance,Kain,dialogue,model,0.0086,10,0,0,0,0,0,0,0,0
+Defiance|306,Defiance,Kain,dialogue,model,0.0116,10,0,0,0,0,0,1,0,0
+Defiance|308,Defiance,Kain,dialogue,model,0.0482,20,0,0,0,0,0,0,0,0
+Defiance|309,Defiance,Kain,dialogue,manual,NA,11,0,1,0,0,0,1,0,0
+Defiance|311,Defiance,Kain,dialogue,model,0.0187,15,0,1,0,0,0,0,0,0
+Defiance|313,Defiance,Kain,dialogue,model,0.1056,4,0,0,0,0,0,0,0,0
+Defiance|316,Defiance,Raziel,dialogue,model,0.0132,11,0,0,0,0,0,0,0,0
+Defiance|318,Defiance,Raziel,dialogue,model,0.0398,19,0,0,0,1,0,0,0,0
+Defiance|319,Defiance,Raziel,dialogue,model,0.0172,11,0,0,0,0,0,0,0,0
+Defiance|321,Defiance,Raziel,dialogue,model,0.0161,12,0,1,0,0,0,0,1,1
+Defiance|323,Defiance,Raziel,dialogue,model,0.0112,10,0,0,0,1,0,1,0,0
+Defiance|326,Defiance,Raziel,narration,model,0.8806,27,0,0,0,0,0,0,0,0
+Defiance|328,Defiance,Raziel,narration,model,0.9551,48,6,1,2,4,0,4,1,1
+Defiance|329,Defiance,Kain,dialogue,model,0.1006,5,0,0,0,0,0,0,0,0
+Defiance|330,Defiance,Raziel,dialogue,manual,NA,11,1,1,0,1,1,0,1,1
+Defiance|334,Defiance,Kain,dialogue,model,0.0016,5,1,2,1,1,1,1,1,1
+Defiance|336,Defiance,Kain,dialogue,model,0.0101,2,0,0,0,0,0,0,0,0
+Defiance|337,Defiance,Raziel,dialogue,model,0.0639,4,0,0,0,0,0,0,0,0
+Defiance|338,Defiance,Kain,dialogue,model,0.0199,2,0,0,0,0,0,0,0,0
+Defiance|339,Defiance,Raziel,dialogue,manual,NA,19,0,0,1,0,0,0,0,0
+Defiance|340,Defiance,Raziel,dialogue,model,0.1009,33,2,0,1,2,0,0,0,0
+Defiance|341,Defiance,Kain,dialogue,model,0.1889,7,0,0,0,0,0,0,0,0
+Defiance|342,Defiance,Raziel,dialogue,model,0.0061,8,1,0,1,1,0,0,0,0
+Defiance|343,Defiance,Kain,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Defiance|345,Defiance,Kain,dialogue,model,0.1056,4,1,0,1,1,0,1,0,0
+Defiance|348,Defiance,Kain,dialogue,model,0.0013,4,1,0,0,0,0,0,0,0
+Defiance|349,Defiance,Kain,dialogue,model,0.0147,13,1,0,0,2,0,0,0,0
+Defiance|351,Defiance,Kain,dialogue,model,0.0137,12,0,1,0,1,1,0,0,1
+Defiance|353,Defiance,Kain,dialogue,model,0.0062,7,0,0,0,0,0,0,0,0
+Defiance|354,Defiance,Kain,narration,model,0.8627,26,0,0,0,0,0,0,0,0
+Defiance|355,Defiance,Kain,narration,model,0.9409,44,2,4,2,2,3,1,3,2
+Blood Omen|11,Blood Omen,Vorador,dialogue,model,0.0078,10,0,0,0,0,0,0,0,0
+Blood Omen|13,Blood Omen,Mortanius,dialogue,model,0.0171,12,1,1,0,1,0,1,0,0
+Blood Omen|15,Blood Omen,Mortanius,dialogue,model,0.0447,22,0,0,1,0,0,0,0,1
+Blood Omen|34,Blood Omen,Mortanius,dialogue,model,0.006,9,0,0,0,0,0,0,0,0
+Blood Omen|51,Blood Omen,Ariel,dialogue,model,0.0149,10,1,0,0,1,0,1,0,0
+Blood Omen|53,Blood Omen,Ariel,dialogue,model,0.1106,35,2,1,1,2,0,0,0,1
+Blood Omen|55,Blood Omen,Ariel,dialogue,model,0.3126,63,5,4,5,6,3,4,4,2
+Blood Omen|57,Blood Omen,Ariel,dialogue,model,0.0654,26,1,0,1,2,0,3,0,0
+Blood Omen|59,Blood Omen,Ariel,dialogue,model,0.0062,7,0,1,0,1,0,0,0,0
+Blood Omen|95,Blood Omen,Ariel,dialogue,model,0.1844,45,2,1,1,2,0,2,1,0
+Blood Omen|132,Blood Omen,Ariel,dialogue,model,0.0533,23,1,1,1,0,0,0,0,2
+Blood Omen|175,Blood Omen,Vorador,dialogue,model,0.0664,25,0,2,0,0,2,0,2,0
+Blood Omen|177,Blood Omen,Vorador,dialogue,model,0.2739,59,2,1,3,2,2,3,2,4
+Blood Omen|179,Blood Omen,Vorador,dialogue,model,0.1314,36,1,1,1,2,2,3,2,1
+Blood Omen|211,Blood Omen,Vorador,dialogue,model,0.0255,13,0,0,0,0,0,0,0,0
+Blood Omen|222,Blood Omen,Ariel,dialogue,model,0.1153,36,0,4,0,0,1,1,0,1
+Blood Omen|253,Blood Omen,Ariel,dialogue,constraint,0.6894,126,2,2,2,3,2,4,0,4
+Blood Omen|255,Blood Omen,Ariel,dialogue,model,0.0164,14,0,1,0,0,1,0,1,1
+Blood Omen|314,Blood Omen,Moebius,dialogue,model,0.0112,9,2,0,1,2,0,1,0,0
+Blood Omen|316,Blood Omen,Moebius,dialogue,model,0.0037,4,0,0,0,0,0,0,0,0
+Blood Omen|318,Blood Omen,Moebius,dialogue,model,0.0037,7,1,1,1,1,0,1,0,1
+Blood Omen|320,Blood Omen,Moebius,dialogue,model,0.0461,4,0,0,1,0,0,0,0,0
+Blood Omen|322,Blood Omen,Moebius,dialogue,model,4e-4,3,0,0,0,0,0,0,0,0
+Blood Omen|324,Blood Omen,Moebius,dialogue,model,0.0194,15,0,1,0,0,0,0,0,0
+Blood Omen|331,Blood Omen,Moebius,dialogue,model,0.0469,23,0,1,1,0,1,0,1,2
+Blood Omen|333,Blood Omen,Moebius,dialogue,model,0.0234,14,0,0,0,0,0,0,0,0
+Blood Omen|335,Blood Omen,Moebius,dialogue,model,0.0104,12,0,1,0,0,0,0,0,1
+Blood Omen|354,Blood Omen,Moebius,dialogue,model,0.0391,17,0,0,1,1,1,1,0,1
+Blood Omen|356,Blood Omen,Moebius,dialogue,model,0.0186,13,0,0,0,0,0,0,0,0
+Blood Omen|358,Blood Omen,Moebius,dialogue,model,0.156,6,0,0,0,0,0,0,0,0
+Blood Omen|360,Blood Omen,Moebius,dialogue,model,0.0544,4,0,0,0,0,0,0,0,0
+Blood Omen|362,Blood Omen,Moebius,dialogue,model,0.0278,2,0,0,0,0,0,0,0,0
+Blood Omen|364,Blood Omen,Moebius,dialogue,model,0.159,44,1,0,1,2,1,1,0,1
+Blood Omen|366,Blood Omen,Moebius,dialogue,model,0.0555,3,0,1,0,0,1,0,1,1
+Blood Omen|368,Blood Omen,Moebius,dialogue,model,0.1938,6,0,0,0,0,0,0,0,0
+Blood Omen|371,Blood Omen,Moebius,dialogue,model,0.0257,18,1,1,1,2,0,1,0,0
+Blood Omen|381,Blood Omen,Mortanius,dialogue,constraint,0.8627,24,3,0,2,3,0,3,0,0
+Blood Omen|383,Blood Omen,Mortanius,dialogue,model,0.044,4,0,0,0,1,0,1,0,0
+Blood Omen|386,Blood Omen,Mortanius,dialogue,constraint,NA,17,1,2,1,1,1,2,3,1
+Blood Omen|400,Blood Omen,Ariel,dialogue,constraint,0.8657,28,2,2,1,3,0,1,1,1
+Soul Reaver|22,Soul Reaver,Elder God,dialogue,model,0.0013,4,0,0,0,0,0,0,0,1
+Soul Reaver|24,Soul Reaver,Elder God,dialogue,model,0.0039,7,0,0,0,0,0,0,0,1
+Soul Reaver|28,Soul Reaver,Elder God,dialogue,model,0.0305,15,1,0,0,2,0,2,1,0
+Soul Reaver|31,Soul Reaver,Elder God,dialogue,model,0.0022,5,0,0,0,0,0,0,0,0
+Soul Reaver|33,Soul Reaver,Elder God,dialogue,model,0.2937,61,0,2,1,1,1,1,0,1
+Soul Reaver|35,Soul Reaver,Elder God,dialogue,model,0.2235,49,3,3,2,2,1,2,2,2
+Soul Reaver|37,Soul Reaver,Elder God,dialogue,model,0.0564,23,0,0,0,0,0,0,0,0
+Soul Reaver|39,Soul Reaver,Elder God,dialogue,model,0.0034,6,0,0,0,0,0,0,0,0
+Soul Reaver|41,Soul Reaver,Elder God,dialogue,model,0.1546,39,0,2,0,0,1,2,2,1
+Soul Reaver|43,Soul Reaver,Elder God,dialogue,model,0.0559,23,1,0,1,2,0,1,0,0
+Soul Reaver|46,Soul Reaver,Elder God,dialogue,constraint,0.7134,21,0,1,0,0,1,0,1,0
+Soul Reaver|48,Soul Reaver,Elder God,dialogue,model,0.2701,57,0,1,0,1,0,1,0,2
+Soul Reaver|50,Soul Reaver,Elder God,dialogue,model,0.0771,26,0,0,1,2,0,1,0,1
+Soul Reaver|52,Soul Reaver,Elder God,dialogue,model,0.2168,50,1,2,0,2,1,1,1,1
+Soul Reaver|55,Soul Reaver,Elder God,dialogue,model,0.0129,13,0,0,0,0,0,0,0,1
+Soul Reaver|57,Soul Reaver,Elder God,dialogue,model,0.0556,21,0,1,0,0,0,0,0,0
+Soul Reaver|61,Soul Reaver,Elder God,dialogue,model,0.0806,25,0,0,1,0,0,0,0,0
+Soul Reaver|63,Soul Reaver,Elder God,dialogue,model,0.0362,16,0,0,0,0,0,0,0,0
+Soul Reaver|70,Soul Reaver,Elder God,dialogue,constraint,NA,72,0,1,2,5,0,4,0,0
+Soul Reaver|87,Soul Reaver,Elder God,dialogue,constraint,0.8853,36,1,3,1,2,1,0,1,0
+Soul Reaver|104,Soul Reaver,Elder God,dialogue,model,0.0022,5,0,0,0,0,0,0,0,0
+Soul Reaver|106,Soul Reaver,Elder God,dialogue,model,0.0351,14,0,1,0,0,1,0,1,0
+Soul Reaver|109,Soul Reaver,Elder God,dialogue,model,0.0636,23,0,1,0,0,1,1,1,0
+Soul Reaver|128,Soul Reaver,Elder God,dialogue,constraint,NA,74,2,0,0,2,0,2,0,2
+Soul Reaver|130,Soul Reaver,Ariel,dialogue,model,0.0194,15,1,0,0,1,0,1,0,0
+Soul Reaver|132,Soul Reaver,Ariel,dialogue,constraint,0.9134,46,0,2,3,2,1,1,0,1
+Soul Reaver|134,Soul Reaver,Ariel,dialogue,model,0.1963,42,2,1,1,1,1,2,0,2
+Soul Reaver|136,Soul Reaver,Ariel,dialogue,model,0.0371,19,1,1,0,2,1,1,0,1
+Soul Reaver|138,Soul Reaver,Elder God,dialogue,model,0.1601,36,0,0,0,0,1,0,0,2
+Soul Reaver|148,Soul Reaver,Elder God,dialogue,model,0.1681,43,1,1,1,1,1,0,1,0
+Soul Reaver|150,Soul Reaver,Elder God,dialogue,model,0.1093,27,1,1,0,0,1,0,0,0
+Soul Reaver|154,Soul Reaver,Elder God,dialogue,model,0.0305,15,0,0,0,1,0,1,0,0
+Soul Reaver|159,Soul Reaver,Elder God,dialogue,constraint,NA,54,2,2,0,2,2,2,2,1
+Soul Reaver|166,Soul Reaver,Elder God,dialogue,model,0.1837,43,2,0,0,0,0,0,0,0
+Soul Reaver|169,Soul Reaver,Elder God,dialogue,model,0.3443,59,3,3,1,6,3,5,2,3
+Soul Reaver|187,Soul Reaver,Elder God,dialogue,model,0.1052,32,0,1,0,2,1,1,0,0
+Soul Reaver|189,Soul Reaver,Elder God,dialogue,model,0.1513,36,0,4,0,1,1,1,1,2
+Soul Reaver|192,Soul Reaver,Elder God,dialogue,constraint,0.9718,68,3,1,1,5,1,1,1,2
+Soul Reaver|205,Soul Reaver,Elder God,dialogue,model,0.1791,40,0,0,0,0,0,0,0,1
+Soul Reaver|213,Soul Reaver,Elder God,dialogue,constraint,NA,14,0,1,0,0,0,0,1,0
+Soul Reaver|242,Soul Reaver,Elder God,dialogue,model,0.0193,13,1,1,0,2,0,1,1,0
+Soul Reaver|244,Soul Reaver,Moebius,dialogue,model,0.0282,14,1,1,0,1,0,0,0,1
+Soul Reaver 2|27,Soul Reaver 2,Moebius,dialogue,model,0.0248,13,1,1,0,1,0,0,0,1
+Soul Reaver 2|29,Soul Reaver 2,Moebius,dialogue,model,0.0173,15,0,0,0,1,0,1,0,1
+Soul Reaver 2|33,Soul Reaver 2,Moebius,dialogue,model,0.1515,40,1,1,1,4,1,1,1,0
+Soul Reaver 2|39,Soul Reaver 2,Moebius,dialogue,model,0.0923,30,0,1,0,1,0,1,0,4
+Soul Reaver 2|44,Soul Reaver 2,Moebius,dialogue,model,0.1692,38,1,0,0,1,0,0,0,1
+Soul Reaver 2|45,Soul Reaver 2,Moebius,dialogue,model,0.0159,11,0,0,0,0,1,0,0,1
+Soul Reaver 2|48,Soul Reaver 2,Moebius,dialogue,constraint,0.9156,44,1,2,1,3,0,1,0,1
+Soul Reaver 2|51,Soul Reaver 2,Moebius,dialogue,constraint,0.8824,31,2,1,1,3,0,3,0,1
+Soul Reaver 2|52,Soul Reaver 2,Moebius,dialogue,constraint,0.6734,13,0,0,0,0,0,0,0,0
+Soul Reaver 2|53,Soul Reaver 2,Moebius,dialogue,model,0.2643,57,2,0,1,2,1,1,0,3
+Soul Reaver 2|55,Soul Reaver 2,Moebius,dialogue,model,0.0062,8,0,0,0,0,0,0,1,1
+Soul Reaver 2|57,Soul Reaver 2,Moebius,dialogue,model,0.0618,24,1,2,1,0,0,0,0,0
+Soul Reaver 2|59,Soul Reaver 2,Moebius,dialogue,model,0.0537,21,0,1,0,0,1,0,0,1
+Soul Reaver 2|60,Soul Reaver 2,Moebius,dialogue,constraint,NA,75,4,3,3,4,0,3,0,1
+Soul Reaver 2|62,Soul Reaver 2,Moebius,dialogue,constraint,NA,93,1,2,0,3,2,1,1,4
+Soul Reaver 2|88,Soul Reaver 2,Moebius,dialogue,model,0.0709,25,0,1,0,0,0,1,0,0
+Soul Reaver 2|91,Soul Reaver 2,Moebius,dialogue,model,0.2417,7,0,1,0,0,0,0,0,0
+Soul Reaver 2|94,Soul Reaver 2,Moebius,dialogue,constraint,0.7766,24,1,3,1,2,1,1,1,2
+Soul Reaver 2|96,Soul Reaver 2,Moebius,dialogue,model,0.0429,20,1,1,0,1,0,0,0,1
+Soul Reaver 2|99,Soul Reaver 2,Moebius,dialogue,model,0.3053,53,2,2,0,4,1,2,0,3
+Soul Reaver 2|102,Soul Reaver 2,Moebius,dialogue,model,0.0734,26,1,0,0,1,0,2,1,1
+Soul Reaver 2|177,Soul Reaver 2,Elder God,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Soul Reaver 2|179,Soul Reaver 2,Elder God,dialogue,model,0.1175,4,1,0,0,0,0,0,0,0
+Soul Reaver 2|181,Soul Reaver 2,Elder God,dialogue,constraint,0.8198,31,0,1,0,0,1,0,1,2
+Soul Reaver 2|183,Soul Reaver 2,Elder God,dialogue,model,0.0449,23,0,0,1,0,1,0,0,0
+Soul Reaver 2|185,Soul Reaver 2,Elder God,dialogue,model,0.0772,24,2,0,1,2,0,1,1,0
+Soul Reaver 2|189,Soul Reaver 2,Elder God,dialogue,model,0.1632,45,4,3,3,4,3,3,2,2
+Soul Reaver 2|191,Soul Reaver 2,Elder God,dialogue,constraint,NA,107,6,3,6,9,1,7,1,3
+Soul Reaver 2|193,Soul Reaver 2,Elder God,dialogue,model,0.2573,47,3,1,2,2,1,4,1,2
+Soul Reaver 2|216,Soul Reaver 2,Vorador,dialogue,model,0.0091,7,0,0,0,0,0,0,0,0
+Soul Reaver 2|218,Soul Reaver 2,Vorador,dialogue,model,0.1331,6,0,0,0,0,0,0,0,0
+Soul Reaver 2|220,Soul Reaver 2,Vorador,dialogue,model,0.1517,38,1,1,1,1,0,1,0,0
+Soul Reaver 2|221,Soul Reaver 2,Vorador,dialogue,constraint,NA,79,4,2,4,5,1,2,1,1
+Soul Reaver 2|224,Soul Reaver 2,Vorador,dialogue,model,0.0037,8,0,0,0,0,0,0,0,0
+Soul Reaver 2|227,Soul Reaver 2,Vorador,dialogue,constraint,NA,15,0,0,0,0,0,0,0,0
+Soul Reaver 2|229,Soul Reaver 2,Vorador,dialogue,constraint,0.9392,47,2,0,2,2,1,2,0,1
+Soul Reaver 2|231,Soul Reaver 2,Vorador,dialogue,constraint,NA,13,0,0,0,0,0,0,0,0
+Soul Reaver 2|235,Soul Reaver 2,Vorador,dialogue,constraint,0.941,43,0,3,1,0,2,0,1,2
+Soul Reaver 2|237,Soul Reaver 2,Vorador,dialogue,constraint,NA,101,1,2,0,1,2,1,1,3
+Soul Reaver 2|241,Soul Reaver 2,Elder God,dialogue,model,0.1267,5,0,1,0,0,1,0,0,0
+Soul Reaver 2|243,Soul Reaver 2,Elder God,dialogue,model,0.1941,43,1,0,0,1,0,1,0,2
+Soul Reaver 2|245,Soul Reaver 2,Elder God,dialogue,model,0.0357,21,1,0,0,1,0,1,1,0
+Soul Reaver 2|320,Soul Reaver 2,Moebius,dialogue,model,0.0381,18,2,0,2,1,0,2,0,0
+Soul Reaver 2|322,Soul Reaver 2,Moebius,dialogue,model,0.0422,16,0,0,0,1,0,1,1,0
+Soul Reaver 2|324,Soul Reaver 2,Moebius,dialogue,model,0.0084,9,1,0,0,0,0,0,0,0
+Soul Reaver 2|327,Soul Reaver 2,Moebius,dialogue,model,0.0202,15,0,0,0,0,0,0,0,1
+Soul Reaver 2|329,Soul Reaver 2,Moebius,dialogue,model,0.0294,17,0,1,0,0,0,0,0,0
+Soul Reaver 2|333,Soul Reaver 2,Moebius,dialogue,model,9e-4,4,0,0,0,0,0,0,0,0
+Soul Reaver 2|338,Soul Reaver 2,Moebius,dialogue,model,0.0077,9,0,0,0,0,0,0,0,0
+Soul Reaver 2|340,Soul Reaver 2,Moebius,dialogue,model,0.0589,23,0,0,0,0,0,0,0,0
+Soul Reaver 2|350,Soul Reaver 2,Moebius,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Soul Reaver 2|352,Soul Reaver 2,Moebius,dialogue,constraint,NA,10,0,0,0,0,0,0,0,0
+Soul Reaver 2|354,Soul Reaver 2,Moebius,dialogue,model,0.184,40,0,1,0,1,0,1,0,0
+Soul Reaver 2|356,Soul Reaver 2,Moebius,dialogue,constraint,NA,65,0,3,1,2,1,2,1,4
+Soul Reaver 2|358,Soul Reaver 2,Moebius,dialogue,constraint,0.7747,24,0,1,1,1,1,1,1,0
+Soul Reaver 2|360,Soul Reaver 2,Moebius,dialogue,model,0.0249,15,0,0,0,0,0,1,1,0
+Soul Reaver 2|371,Soul Reaver 2,Ariel,dialogue,constraint,0.9863,92,5,2,2,7,1,8,2,2
+Soul Reaver 2|375,Soul Reaver 2,Ariel,dialogue,constraint,0.7392,17,0,1,0,0,1,0,1,1
+Soul Reaver 2|378,Soul Reaver 2,Ariel,dialogue,model,0.072,28,1,0,2,2,0,2,0,0
+Soul Reaver 2|381,Soul Reaver 2,Ariel,dialogue,model,0.0212,18,1,0,1,2,0,2,0,1
+Soul Reaver 2|383,Soul Reaver 2,Ariel,dialogue,model,0.0034,8,2,0,1,2,0,2,0,0
+Soul Reaver 2|388,Soul Reaver 2,Elder God,dialogue,model,0.3247,58,2,3,2,2,2,1,0,2
+Soul Reaver 2|391,Soul Reaver 2,Elder God,dialogue,model,0.0366,19,0,1,0,0,0,0,0,1
+Soul Reaver 2|392,Soul Reaver 2,Elder God,dialogue,model,0.1889,7,1,1,1,2,0,2,1,0
+Soul Reaver 2|452,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,14,1,0,1,1,0,0,0,0
+Soul Reaver 2|454,Soul Reaver 2,Janos Audron,dialogue,model,0.0052,9,0,1,0,0,1,0,0,0
+Soul Reaver 2|457,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,68,1,3,0,0,2,1,0,5
+Soul Reaver 2|461,Soul Reaver 2,Janos Audron,dialogue,model,0.0518,3,0,0,0,0,0,0,0,0
+Soul Reaver 2|463,Soul Reaver 2,Janos Audron,dialogue,constraint,0.9551,55,2,2,4,3,1,2,1,1
+Soul Reaver 2|467,Soul Reaver 2,Janos Audron,dialogue,constraint,0.9649,70,3,1,3,6,1,2,0,1
+Soul Reaver 2|469,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver 2|471,Soul Reaver 2,Janos Audron,dialogue,model,0.1135,37,2,0,0,3,0,3,1,0
+Soul Reaver 2|473,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,16,2,1,1,1,0,1,0,0
+Soul Reaver 2|476,Soul Reaver 2,Janos Audron,dialogue,constraint,0.6771,20,3,0,2,2,0,1,0,0
+Soul Reaver 2|478,Soul Reaver 2,Janos Audron,dialogue,model,0.3027,8,0,0,0,0,0,0,0,0
+Soul Reaver 2|480,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,14,1,0,0,1,0,0,0,0
+Soul Reaver 2|484,Soul Reaver 2,Janos Audron,dialogue,model,0.0445,3,0,0,0,1,0,0,0,0
+Soul Reaver 2|486,Soul Reaver 2,Janos Audron,dialogue,model,0.1196,34,0,1,0,1,1,1,0,2
+Soul Reaver 2|488,Soul Reaver 2,Janos Audron,dialogue,model,0.0223,14,1,0,0,1,0,0,0,0
+Soul Reaver 2|490,Soul Reaver 2,Janos Audron,dialogue,constraint,NA,12,0,0,0,0,0,0,0,0
+Soul Reaver 2|493,Soul Reaver 2,Janos Audron,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Soul Reaver 2|497,Soul Reaver 2,Janos Audron,dialogue,constraint,0.8461,28,0,1,0,1,1,0,1,0
+Soul Reaver 2|502,Soul Reaver 2,Janos Audron,dialogue,model,0.0043,6,1,0,0,1,0,0,0,0
+Soul Reaver 2|504,Soul Reaver 2,Janos Audron,dialogue,model,0.002,5,0,0,0,0,1,0,0,1
+Soul Reaver 2|514,Soul Reaver 2,Janos Audron,dialogue,model,0.0686,3,1,0,0,1,0,1,0,0
+Soul Reaver 2|541,Soul Reaver 2,Elder God,dialogue,model,0.0031,5,0,0,0,0,0,0,0,0
+Soul Reaver 2|549,Soul Reaver 2,Moebius,dialogue,model,0.0831,33,1,1,1,0,1,0,1,1
+Soul Reaver 2|552,Soul Reaver 2,Moebius,dialogue,constraint,NA,6,0,1,0,0,1,0,0,0
+Soul Reaver 2|554,Soul Reaver 2,Moebius,dialogue,constraint,NA,18,0,0,1,2,0,2,1,0
+Soul Reaver 2|556,Soul Reaver 2,Moebius,dialogue,model,0.1289,30,0,1,0,1,0,0,0,0
+Soul Reaver 2|564,Soul Reaver 2,Moebius,dialogue,model,0.1767,6,0,0,0,0,0,0,0,0
+Blood Omen 2|5,Blood Omen 2,Umah,dialogue,model,0.0279,15,0,2,0,1,2,0,3,2
+Blood Omen 2|8,Blood Omen 2,Umah,dialogue,model,0.1783,43,0,2,0,0,0,0,0,0
+Blood Omen 2|11,Blood Omen 2,Umah,dialogue,model,0.1505,33,0,1,0,0,2,0,1,2
+Blood Omen 2|14,Blood Omen 2,Umah,dialogue,model,0.117,35,0,0,0,1,0,0,0,1
+Blood Omen 2|17,Blood Omen 2,Umah,dialogue,model,0.049,24,0,1,0,0,0,0,0,1
+Blood Omen 2|19,Blood Omen 2,Umah,dialogue,model,0.2221,36,2,0,0,2,0,2,0,3
+Blood Omen 2|21,Blood Omen 2,Umah,dialogue,constraint,0.6608,113,7,0,4,8,1,5,0,6
+Blood Omen 2|24,Blood Omen 2,Umah,dialogue,model,0.0447,21,0,1,0,0,1,0,1,1
+Blood Omen 2|27,Blood Omen 2,Umah,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Blood Omen 2|29,Blood Omen 2,Umah,dialogue,model,0.2061,52,3,0,1,3,0,2,0,1
+Blood Omen 2|31,Blood Omen 2,Umah,dialogue,model,0.1342,38,1,1,0,2,0,2,0,0
+Blood Omen 2|33,Blood Omen 2,Umah,dialogue,model,0.2222,52,2,2,1,3,0,3,0,3
+Blood Omen 2|35,Blood Omen 2,Umah,dialogue,model,0.092,33,0,3,0,0,2,0,1,1
+Blood Omen 2|38,Blood Omen 2,Umah,dialogue,constraint,0.8435,37,0,0,2,1,0,1,0,2
+Blood Omen 2|42,Blood Omen 2,Umah,dialogue,model,0.1007,31,1,0,0,1,0,0,0,1
+Blood Omen 2|44,Blood Omen 2,Umah,dialogue,constraint,NA,14,0,0,1,0,0,0,0,2
+Blood Omen 2|46,Blood Omen 2,Umah,dialogue,model,0.1572,40,0,3,0,0,5,1,1,2
+Blood Omen 2|51,Blood Omen 2,Umah,dialogue,model,0.0232,15,1,2,1,1,0,1,1,0
+Blood Omen 2|57,Blood Omen 2,Umah,dialogue,constraint,0.7127,23,0,0,0,0,0,0,0,0
+Blood Omen 2|60,Blood Omen 2,Umah,dialogue,model,0.1017,31,1,0,0,1,0,0,0,0
+Blood Omen 2|62,Blood Omen 2,Umah,dialogue,constraint,0.8125,28,0,2,0,0,1,0,0,2
+Blood Omen 2|64,Blood Omen 2,Umah,dialogue,model,0.1482,39,1,0,0,2,0,1,0,0
+Blood Omen 2|66,Blood Omen 2,Umah,dialogue,model,0.1753,41,1,2,1,1,1,0,0,1
+Blood Omen 2|68,Blood Omen 2,Umah,dialogue,model,0.1883,46,0,0,0,1,1,1,0,2
+Blood Omen 2|75,Blood Omen 2,Umah,dialogue,model,0.097,30,5,0,3,6,0,4,1,0
+Blood Omen 2|77,Blood Omen 2,Umah,dialogue,model,0.1701,7,0,0,0,0,0,0,0,0
+Blood Omen 2|79,Blood Omen 2,Umah,dialogue,model,0.0031,5,0,0,0,0,0,0,0,0
+Blood Omen 2|82,Blood Omen 2,Umah,dialogue,constraint,NA,84,1,4,1,3,3,3,1,3
+Blood Omen 2|84,Blood Omen 2,Umah,dialogue,constraint,NA,77,1,3,1,4,2,2,0,1
+Blood Omen 2|86,Blood Omen 2,Umah,dialogue,model,0.1586,39,1,0,0,2,1,0,0,2
+Blood Omen 2|89,Blood Omen 2,Umah,dialogue,model,0.1164,34,0,0,1,1,0,0,0,0
+Blood Omen 2|91,Blood Omen 2,Umah,dialogue,constraint,NA,73,5,5,2,7,0,3,0,2
+Blood Omen 2|93,Blood Omen 2,Umah,dialogue,model,0.046,22,2,0,1,3,0,2,1,0
+Blood Omen 2|95,Blood Omen 2,Umah,dialogue,model,0.0636,22,2,1,1,1,0,0,0,0
+Blood Omen 2|97,Blood Omen 2,Umah,dialogue,model,0.0309,19,0,3,1,0,1,0,0,3
+Blood Omen 2|99,Blood Omen 2,Umah,dialogue,model,0.0169,13,0,0,0,0,0,0,0,0
+Blood Omen 2|108,Blood Omen 2,Umah,dialogue,constraint,NA,98,0,1,1,0,0,1,0,2
+Blood Omen 2|110,Blood Omen 2,Umah,dialogue,model,0.0319,18,0,1,0,0,0,0,0,1
+Blood Omen 2|112,Blood Omen 2,Umah,dialogue,model,0.1889,7,0,1,0,0,1,0,1,1
+Blood Omen 2|114,Blood Omen 2,Umah,dialogue,model,0.1267,5,0,0,0,0,0,0,0,0
+Blood Omen 2|116,Blood Omen 2,Umah,dialogue,model,0.0306,19,0,2,0,1,1,0,0,2
+Blood Omen 2|118,Blood Omen 2,Umah,dialogue,model,0.0686,3,0,0,0,0,0,0,0,0
+Blood Omen 2|122,Blood Omen 2,Umah,dialogue,model,0.0297,18,0,0,0,0,0,1,0,0
+Blood Omen 2|125,Blood Omen 2,Umah,dialogue,model,0.0416,21,0,0,0,0,0,0,0,0
+Blood Omen 2|129,Blood Omen 2,Umah,dialogue,model,0.0082,12,1,1,1,1,0,1,1,0
+Blood Omen 2|150,Blood Omen 2,Umah,dialogue,constraint,NA,78,1,1,1,1,1,0,1,4
+Blood Omen 2|152,Blood Omen 2,Umah,dialogue,model,0.1138,36,0,0,0,1,0,0,0,1
+Blood Omen 2|154,Blood Omen 2,Umah,dialogue,model,0.0136,13,0,0,0,0,0,0,0,0
+Blood Omen 2|180,Blood Omen 2,Umah,dialogue,model,0.054,22,0,0,0,0,0,0,0,2
+Blood Omen 2|182,Blood Omen 2,Umah,dialogue,model,0.0748,31,0,2,0,0,1,0,0,2
+Blood Omen 2|185,Blood Omen 2,Umah,dialogue,model,0.1846,48,1,2,0,0,1,0,0,2
+Blood Omen 2|188,Blood Omen 2,Umah,dialogue,model,0.0192,16,0,2,0,0,0,0,0,0
+Blood Omen 2|190,Blood Omen 2,Umah,dialogue,model,0.0262,17,1,1,1,0,1,0,2,1
+Blood Omen 2|192,Blood Omen 2,Umah,dialogue,model,0.0273,17,0,0,0,0,0,0,0,0
+Blood Omen 2|195,Blood Omen 2,Umah,dialogue,model,0.0478,20,0,0,1,1,0,1,0,0
+Blood Omen 2|231,Blood Omen 2,Sebastian,dialogue,model,0.2855,10,0,0,0,1,0,1,0,0
+Blood Omen 2|233,Blood Omen 2,Sebastian,dialogue,constraint,NA,15,0,0,0,0,0,0,0,0
+Blood Omen 2|235,Blood Omen 2,Sebastian,dialogue,model,0.0317,17,0,0,0,0,1,0,0,0
+Blood Omen 2|238,Blood Omen 2,Sebastian,dialogue,model,0.0161,13,0,1,0,0,1,0,1,1
+Blood Omen 2|240,Blood Omen 2,Sebastian,dialogue,model,0.0135,11,0,0,0,1,0,1,0,0
+Blood Omen 2|242,Blood Omen 2,Sebastian,dialogue,model,0.0868,32,2,1,2,1,1,1,1,2
+Blood Omen 2|246,Blood Omen 2,Vorador,dialogue,model,0.0391,20,0,1,0,0,1,1,0,1
+Blood Omen 2|249,Blood Omen 2,Vorador,dialogue,constraint,0.7697,26,1,1,0,1,0,1,0,1
+Blood Omen 2|251,Blood Omen 2,Vorador,dialogue,model,0.0962,4,0,0,0,0,0,0,0,0
+Blood Omen 2|253,Blood Omen 2,Vorador,dialogue,model,0.1994,51,2,2,2,3,1,1,0,4
+Blood Omen 2|256,Blood Omen 2,Vorador,dialogue,model,0.0219,3,0,0,0,0,0,0,0,0
+Blood Omen 2|258,Blood Omen 2,Vorador,dialogue,model,0.0142,2,0,0,0,0,0,0,0,0
+Blood Omen 2|260,Blood Omen 2,Vorador,dialogue,model,0.1021,3,0,0,0,0,0,0,0,0
+Blood Omen 2|262,Blood Omen 2,Vorador,dialogue,model,0.0086,1,0,0,0,0,0,0,0,0
+Blood Omen 2|266,Blood Omen 2,Vorador,dialogue,model,0.2716,7,0,0,0,0,1,0,0,1
+Blood Omen 2|268,Blood Omen 2,Vorador,dialogue,model,0.1426,39,0,0,0,0,1,0,0,2
+Blood Omen 2|270,Blood Omen 2,Vorador,dialogue,model,0.2081,50,0,2,0,0,2,1,0,3
+Blood Omen 2|272,Blood Omen 2,Vorador,dialogue,model,0.0707,27,0,1,0,0,1,0,1,1
+Blood Omen 2|304,Blood Omen 2,Vorador,dialogue,model,0.0512,24,2,1,0,1,0,0,0,0
+Blood Omen 2|347,Blood Omen 2,Vorador,dialogue,constraint,NA,15,0,0,0,0,0,0,0,0
+Blood Omen 2|349,Blood Omen 2,Vorador,dialogue,constraint,NA,16,0,0,0,0,0,0,0,1
+Blood Omen 2|351,Blood Omen 2,Vorador,dialogue,model,0.0561,23,0,1,0,0,0,0,0,0
+Blood Omen 2|353,Blood Omen 2,Vorador,dialogue,model,0.0819,30,0,0,0,1,0,0,0,0
+Blood Omen 2|355,Blood Omen 2,Vorador,dialogue,model,0.1419,38,0,0,1,0,0,0,1,1
+Blood Omen 2|357,Blood Omen 2,Vorador,dialogue,model,0.1568,7,0,0,0,0,0,0,0,0
+Blood Omen 2|382,Blood Omen 2,Umah,dialogue,model,0.0317,17,0,4,0,0,1,0,1,2
+Blood Omen 2|385,Blood Omen 2,Umah,dialogue,constraint,NA,16,0,0,0,0,0,0,0,0
+Blood Omen 2|387,Blood Omen 2,Umah,dialogue,model,0.0173,14,0,0,0,0,0,0,0,0
+Blood Omen 2|389,Blood Omen 2,Umah,dialogue,model,0.1429,6,0,0,0,0,0,0,0,0
+Blood Omen 2|391,Blood Omen 2,Umah,dialogue,model,0.0043,6,0,0,0,0,0,0,0,0
+Blood Omen 2|395,Blood Omen 2,Umah,dialogue,constraint,0.7524,26,0,1,0,0,1,0,0,1
+Blood Omen 2|399,Blood Omen 2,Sarafan Lord,dialogue,constraint,NA,14,0,0,1,1,0,0,0,0
+Blood Omen 2|402,Blood Omen 2,Sarafan Lord,dialogue,model,0.0219,3,0,0,0,0,0,0,0,0
+Blood Omen 2|404,Blood Omen 2,Sarafan Lord,dialogue,model,0.1517,29,1,1,0,1,0,2,0,0
+Blood Omen 2|406,Blood Omen 2,Sarafan Lord,dialogue,model,0.1321,34,2,2,2,3,0,3,0,1
+Blood Omen 2|410,Blood Omen 2,Umah,dialogue,model,0.0278,2,0,0,0,0,0,0,0,0
+Blood Omen 2|411,Blood Omen 2,Sarafan Lord,dialogue,model,0.0222,16,1,2,1,1,1,1,2,2
+Blood Omen 2|412,Blood Omen 2,Umah,dialogue,model,0.0498,26,1,0,0,3,0,1,0,0
+Blood Omen 2|416,Blood Omen 2,Sarafan Lord,dialogue,model,0.0335,20,2,3,2,2,0,2,1,0
+Blood Omen 2|418,Blood Omen 2,Vorador,dialogue,model,0.009,10,0,1,0,0,2,0,0,2
+Blood Omen 2|420,Blood Omen 2,Vorador,dialogue,model,0.1021,3,0,0,0,0,0,0,0,0
+Blood Omen 2|421,Blood Omen 2,Umah,dialogue,model,0.0292,15,0,2,0,1,2,0,2,2
+Blood Omen 2|422,Blood Omen 2,Vorador,dialogue,model,0.008,10,0,0,0,0,0,0,0,0
+Blood Omen 2|423,Blood Omen 2,Umah,dialogue,constraint,0.9794,73,1,0,0,0,2,0,0,2
+Blood Omen 2|424,Blood Omen 2,Vorador,dialogue,model,0.0913,5,1,0,0,0,0,0,0,0
+Blood Omen 2|426,Blood Omen 2,Vorador,dialogue,constraint,0.9215,46,1,1,1,0,1,0,0,1
+Blood Omen 2|428,Blood Omen 2,Vorador,dialogue,constraint,NA,12,1,0,0,0,0,0,0,0
+Blood Omen 2|430,Blood Omen 2,Vorador,dialogue,model,0.0711,24,1,0,1,0,0,1,0,2
+Blood Omen 2|432,Blood Omen 2,Umah,dialogue,model,0.1079,29,0,0,0,0,0,1,0,0
+Blood Omen 2|434,Blood Omen 2,Vorador,dialogue,model,0.0209,15,1,0,1,0,0,0,0,1
+Blood Omen 2|436,Blood Omen 2,Vorador,dialogue,model,0.1781,43,0,0,0,0,0,1,1,1
+Blood Omen 2|437,Blood Omen 2,Umah,dialogue,constraint,NA,18,1,0,0,0,0,0,0,0
+Blood Omen 2|444,Blood Omen 2,Vorador,dialogue,model,0.1896,45,1,0,0,0,1,0,0,1
+Blood Omen 2|446,Blood Omen 2,Vorador,dialogue,model,0.0524,23,1,0,1,1,0,0,0,0
+Blood Omen 2|455,Blood Omen 2,Sebastian,dialogue,constraint,0.8622,33,1,0,0,0,0,1,0,0
+Blood Omen 2|457,Blood Omen 2,Sebastian,dialogue,model,0.0842,29,0,0,0,0,1,0,0,1
+Blood Omen 2|459,Blood Omen 2,Sebastian,dialogue,model,0.273,8,1,0,1,1,0,1,1,0
+Blood Omen 2|462,Blood Omen 2,Sebastian,dialogue,model,0.0568,23,0,1,0,2,0,1,0,0
+Blood Omen 2|464,Blood Omen 2,Sebastian,dialogue,model,0.0617,22,0,0,0,1,0,0,0,0
+Blood Omen 2|466,Blood Omen 2,Sebastian,dialogue,model,0.1169,35,0,0,1,1,1,0,0,4
+Blood Omen 2|469,Blood Omen 2,Sebastian,dialogue,model,0.1104,34,1,0,0,1,0,1,1,0
+Blood Omen 2|471,Blood Omen 2,Sebastian,dialogue,model,0.0555,3,0,0,0,0,0,0,0,0
+Blood Omen 2|473,Blood Omen 2,Sebastian,dialogue,model,0.1136,6,0,1,0,0,1,0,1,0
+Blood Omen 2|476,Blood Omen 2,Sebastian,dialogue,model,0.03,18,1,0,1,1,0,2,0,0
+Blood Omen 2|478,Blood Omen 2,Sebastian,dialogue,model,0.1776,47,3,1,2,2,0,2,1,0
+Blood Omen 2|482,Blood Omen 2,Sebastian,dialogue,model,0.0497,22,1,2,1,1,1,1,0,1
+Blood Omen 2|485,Blood Omen 2,Umah,dialogue,model,0.0038,8,0,0,0,0,0,0,0,0
+Blood Omen 2|487,Blood Omen 2,Vorador,dialogue,model,0.2095,41,2,0,0,1,0,1,0,0
+Blood Omen 2|489,Blood Omen 2,Vorador,dialogue,constraint,0.9667,72,0,0,0,0,0,1,0,1
+Blood Omen 2|491,Blood Omen 2,Vorador,dialogue,model,0.179,45,0,0,0,0,0,0,0,2
+Blood Omen 2|513,Blood Omen 2,Seer,dialogue,model,0.0146,10,0,0,0,0,0,1,0,0
+Blood Omen 2|515,Blood Omen 2,Seer,dialogue,constraint,NA,16,0,0,0,0,0,0,0,0
+Blood Omen 2|517,Blood Omen 2,Seer,dialogue,model,0.0032,5,0,0,0,0,0,0,0,0
+Blood Omen 2|519,Blood Omen 2,Seer,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Blood Omen 2|521,Blood Omen 2,Seer,dialogue,model,0.0518,23,2,3,2,4,1,0,0,2
+Blood Omen 2|523,Blood Omen 2,Seer,dialogue,model,0.0037,7,0,1,0,0,1,0,0,1
+Blood Omen 2|525,Blood Omen 2,Seer,dialogue,constraint,NA,94,2,1,1,1,0,1,0,2
+Blood Omen 2|527,Blood Omen 2,Seer,dialogue,model,0.0709,28,1,0,1,1,0,0,0,1
+Blood Omen 2|530,Blood Omen 2,Seer,dialogue,model,0.1733,7,0,0,0,0,0,0,0,0
+Blood Omen 2|533,Blood Omen 2,Seer,dialogue,model,0.013,14,0,1,0,0,0,0,0,0
+Blood Omen 2|535,Blood Omen 2,Seer,dialogue,model,0.0303,21,0,0,0,0,1,0,0,1
+Blood Omen 2|537,Blood Omen 2,Seer,dialogue,model,0.0177,13,0,1,0,0,1,1,1,1
+Blood Omen 2|539,Blood Omen 2,Seer,dialogue,model,0.2467,55,0,1,0,0,1,0,1,1
+Blood Omen 2|541,Blood Omen 2,Seer,dialogue,model,0.1056,4,0,0,0,0,0,0,0,0
+Blood Omen 2|543,Blood Omen 2,Sarafan Lord,dialogue,constraint,0.8837,35,1,0,1,2,1,0,0,1
+Blood Omen 2|545,Blood Omen 2,Sarafan Lord,dialogue,model,0.0454,22,1,3,1,1,1,1,1,1
+Blood Omen 2|547,Blood Omen 2,Seer,dialogue,model,0.0632,25,0,1,0,0,2,0,0,1
+Blood Omen 2|549,Blood Omen 2,Seer,dialogue,model,0.0135,13,0,1,0,0,0,0,0,1
+Blood Omen 2|553,Blood Omen 2,Beast,dialogue,model,0.2222,9,0,0,0,0,0,0,0,0
+Blood Omen 2|555,Blood Omen 2,Beast,dialogue,model,0.0409,22,0,1,0,0,1,0,1,1
+Blood Omen 2|557,Blood Omen 2,Beast,dialogue,constraint,0.7328,22,3,0,2,3,0,1,1,1
+Blood Omen 2|559,Blood Omen 2,Beast,dialogue,model,0.1607,43,0,1,0,0,0,0,0,0
+Blood Omen 2|561,Blood Omen 2,Beast,dialogue,constraint,0.9083,39,0,0,1,0,0,1,0,1
+Blood Omen 2|563,Blood Omen 2,Beast,dialogue,constraint,0.9126,44,2,1,1,2,0,2,0,0
+Blood Omen 2|565,Blood Omen 2,Beast,dialogue,model,0.0339,19,1,0,0,1,0,1,0,1
+Blood Omen 2|568,Blood Omen 2,Beast,dialogue,model,0.0185,14,0,0,0,0,0,0,0,0
+Blood Omen 2|591,Blood Omen 2,Builder,dialogue,model,0.0075,10,0,0,0,0,0,1,0,0
+Blood Omen 2|593,Blood Omen 2,Builder,dialogue,model,0.1255,6,0,1,0,0,0,0,0,0
+Blood Omen 2|595,Blood Omen 2,Builder,dialogue,model,0.0264,15,0,0,1,1,0,1,0,0
+Blood Omen 2|597,Blood Omen 2,Builder,dialogue,constraint,0.9882,100,4,1,3,6,0,5,0,0
+Blood Omen 2|599,Blood Omen 2,Builder,dialogue,constraint,NA,74,2,2,2,2,0,2,1,0
+Blood Omen 2|601,Blood Omen 2,Builder,dialogue,constraint,NA,10,0,1,0,0,0,0,0,0
+Blood Omen 2|603,Blood Omen 2,Builder,dialogue,model,0.0667,27,0,0,0,1,0,1,0,0
+Blood Omen 2|605,Blood Omen 2,Builder,dialogue,constraint,0.9622,68,3,0,3,6,1,4,0,2
+Blood Omen 2|629,Blood Omen 2,Beast,dialogue,model,0.0142,10,0,0,0,1,1,0,0,1
+Blood Omen 2|631,Blood Omen 2,Beast,dialogue,model,0.0477,25,0,3,0,0,1,0,0,1
+Blood Omen 2|633,Blood Omen 2,Beast,dialogue,model,0.061,26,0,0,0,1,0,1,0,0
+Blood Omen 2|636,Blood Omen 2,Beast,dialogue,model,0.0032,6,0,0,0,0,0,0,0,0
+Blood Omen 2|639,Blood Omen 2,Beast,dialogue,model,0.2249,51,1,1,1,1,0,1,0,1
+Blood Omen 2|641,Blood Omen 2,Beast,dialogue,model,0.0355,20,1,2,1,2,1,0,0,1
+Blood Omen 2|646,Blood Omen 2,Janos Audron,dialogue,model,0.0377,18,1,0,0,1,0,0,0,0
+Blood Omen 2|648,Blood Omen 2,Janos Audron,dialogue,model,0.0492,25,1,1,1,2,0,0,0,0
+Blood Omen 2|651,Blood Omen 2,Janos Audron,dialogue,model,0.3405,52,3,0,4,4,0,2,0,1
+Blood Omen 2|653,Blood Omen 2,Janos Audron,dialogue,constraint,NA,87,3,2,1,3,2,1,0,4
+Blood Omen 2|655,Blood Omen 2,Janos Audron,dialogue,constraint,NA,73,3,2,3,4,0,3,1,1
+Blood Omen 2|658,Blood Omen 2,Janos Audron,dialogue,constraint,0.981,76,1,1,0,1,0,0,0,0
+Blood Omen 2|660,Blood Omen 2,Janos Audron,dialogue,model,0.1176,32,0,0,0,0,0,0,0,0
+Blood Omen 2|662,Blood Omen 2,Janos Audron,dialogue,constraint,0.8979,37,0,1,1,1,1,1,1,2
+Blood Omen 2|664,Blood Omen 2,Janos Audron,dialogue,constraint,0.67490000000000006,20,0,0,0,0,0,0,0,0
+Blood Omen 2|666,Blood Omen 2,Janos Audron,dialogue,constraint,0.7298,21,0,0,1,1,0,1,0,2
+Blood Omen 2|668,Blood Omen 2,Janos Audron,dialogue,constraint,0.806,27,0,2,0,0,1,0,0,1
+Blood Omen 2|670,Blood Omen 2,Umah,dialogue,model,0.0036,7,0,0,0,0,0,0,0,0
+Blood Omen 2|671,Blood Omen 2,Vorador,dialogue,model,0.0081,3,0,0,0,0,0,0,0,0
+Blood Omen 2|672,Blood Omen 2,Umah,dialogue,model,0.0467,23,0,0,0,0,0,0,0,0
+Blood Omen 2|674,Blood Omen 2,Vorador,dialogue,model,0.0161,16,0,2,0,0,0,0,0,1
+Blood Omen 2|675,Blood Omen 2,Janos Audron,dialogue,constraint,NA,11,0,1,0,1,0,1,0,0
+Blood Omen 2|677,Blood Omen 2,Umah,dialogue,model,0.0097,6,0,0,0,0,0,0,0,0
+Blood Omen 2|679,Blood Omen 2,Vorador,dialogue,model,0.0445,3,0,0,0,0,0,0,0,0
+Blood Omen 2|681,Blood Omen 2,Vorador,dialogue,model,0.0219,3,0,0,0,0,0,0,0,0
+Blood Omen 2|682,Blood Omen 2,Janos Audron,dialogue,constraint,NA,89,2,2,2,3,1,2,0,2
+Blood Omen 2|683,Blood Omen 2,Vorador,dialogue,model,0.0438,5,0,0,0,0,0,0,0,0
+Blood Omen 2|684,Blood Omen 2,Janos Audron,dialogue,constraint,0.9689,72,3,2,1,3,1,1,0,4
+Blood Omen 2|686,Blood Omen 2,Vorador,dialogue,model,0.0037,7,0,0,0,0,0,0,0,0
+Blood Omen 2|687,Blood Omen 2,Umah,dialogue,constraint,0.9481,55,0,2,0,1,2,1,2,3
+Blood Omen 2|688,Blood Omen 2,Janos Audron,dialogue,model,0.2164,52,0,2,0,0,0,0,0,1
+Blood Omen 2|690,Blood Omen 2,Umah,dialogue,model,0.0862,4,0,0,0,0,0,0,0,0
+Blood Omen 2|691,Blood Omen 2,Vorador,dialogue,model,0.0043,6,0,0,0,0,0,0,0,0
+Blood Omen 2|692,Blood Omen 2,Umah,dialogue,constraint,NA,14,0,1,0,0,1,0,1,1
+Blood Omen 2|694,Blood Omen 2,Umah,dialogue,constraint,NA,19,0,0,0,0,0,0,1,0
+Blood Omen 2|695,Blood Omen 2,Janos Audron,dialogue,model,0.0239,16,0,0,0,0,0,0,0,0
+Blood Omen 2|696,Blood Omen 2,Vorador,dialogue,constraint,NA,16,1,2,0,1,1,0,0,0
+Blood Omen 2|697,Blood Omen 2,Janos Audron,dialogue,model,0.0033,5,0,0,0,0,0,0,0,0
+Blood Omen 2|700,Blood Omen 2,Umah,dialogue,constraint,NA,16,0,1,0,1,0,0,0,0
+Blood Omen 2|702,Blood Omen 2,Umah,dialogue,constraint,0.6869,20,0,0,0,0,0,0,0,1
+Blood Omen 2|704,Blood Omen 2,Umah,dialogue,constraint,NA,16,2,0,2,1,0,1,0,0
+Blood Omen 2|706,Blood Omen 2,Umah,dialogue,model,0.0491,23,0,0,1,1,0,1,0,1
+Blood Omen 2|708,Blood Omen 2,Umah,dialogue,model,0.025,2,0,0,0,0,0,0,0,0
+Blood Omen 2|711,Blood Omen 2,Umah,dialogue,model,0.0773,4,2,0,1,1,0,0,0,0
+Blood Omen 2|713,Blood Omen 2,Umah,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Blood Omen 2|716,Blood Omen 2,Umah,dialogue,model,0.003,7,0,0,1,0,0,0,0,0
+Blood Omen 2|718,Blood Omen 2,Umah,dialogue,constraint,NA,78,0,1,1,2,2,1,0,4
+Blood Omen 2|720,Blood Omen 2,Umah,dialogue,model,0.1518,42,0,1,1,1,0,1,1,1
+Blood Omen 2|722,Blood Omen 2,Umah,dialogue,constraint,0.7189,20,1,0,0,1,0,0,0,0
+Blood Omen 2|739,Blood Omen 2,Umah,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Blood Omen 2|741,Blood Omen 2,Umah,dialogue,model,0.089,2,0,1,0,0,0,0,0,0
+Blood Omen 2|745,Blood Omen 2,Umah,dialogue,constraint,NA,12,1,0,0,1,0,0,0,0
+Blood Omen 2|747,Blood Omen 2,Umah,dialogue,model,0.0518,3,1,0,1,1,0,1,0,0
+Blood Omen 2|749,Blood Omen 2,Umah,dialogue,model,0.0072,9,0,0,0,0,1,0,0,1
+Blood Omen 2|752,Blood Omen 2,Umah,dialogue,model,0.1715,6,0,0,0,0,0,0,0,0
+Blood Omen 2|754,Blood Omen 2,Umah,dialogue,model,0.1187,7,0,0,0,0,0,0,0,0
+Blood Omen 2|757,Blood Omen 2,Umah,dialogue,model,0.0086,1,0,0,0,0,0,0,0,0
+Blood Omen 2|759,Blood Omen 2,Umah,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Blood Omen 2|766,Blood Omen 2,Sarafan Lord,dialogue,model,0.0045,7,0,0,0,0,0,1,0,0
+Blood Omen 2|768,Blood Omen 2,Sarafan Lord,dialogue,model,0.0361,16,1,2,1,1,0,1,1,0
+Blood Omen 2|770,Blood Omen 2,Sarafan Lord,dialogue,constraint,NA,75,1,1,1,3,3,2,0,1
+Blood Omen 2|772,Blood Omen 2,Sarafan Lord,dialogue,model,0.1608,6,1,0,0,1,0,1,0,0
+Blood Omen 2|774,Blood Omen 2,Sarafan Lord,dialogue,constraint,0.8489,34,0,0,1,1,0,0,0,2
+Blood Omen 2|811,Blood Omen 2,Vorador,dialogue,model,0.0309,20,0,1,0,0,0,0,0,0
+Blood Omen 2|813,Blood Omen 2,Vorador,dialogue,model,0.0161,12,0,0,0,0,0,0,0,0
+Blood Omen 2|816,Blood Omen 2,Janos Audron,dialogue,constraint,NA,11,0,0,0,0,0,0,0,1
+Blood Omen 2|818,Blood Omen 2,Vorador,dialogue,model,0.1872,7,0,0,0,0,0,0,0,0
+Blood Omen 2|820,Blood Omen 2,Vorador,dialogue,model,0.0078,10,0,0,0,0,0,1,0,0
+Blood Omen 2|822,Blood Omen 2,Vorador,dialogue,model,0.0058,6,0,0,0,0,0,1,0,0
+Blood Omen 2|824,Blood Omen 2,Vorador,dialogue,model,0.0017,3,0,0,0,0,0,0,0,0
+Blood Omen 2|826,Blood Omen 2,Vorador,dialogue,model,0.0086,1,0,0,0,1,0,0,0,0
+Blood Omen 2|828,Blood Omen 2,Vorador,dialogue,model,0.0072,7,0,0,0,0,0,0,0,1
+Blood Omen 2|830,Blood Omen 2,Janos Audron,dialogue,constraint,NA,20,1,1,1,0,0,0,0,1
+Blood Omen 2|833,Blood Omen 2,Sarafan Lord,dialogue,model,0.1255,6,0,0,0,0,0,1,0,0
+Blood Omen 2|835,Blood Omen 2,Janos Audron,dialogue,model,0.189,48,1,0,0,0,0,0,0,1
+Blood Omen 2|842,Blood Omen 2,Sarafan Lord,dialogue,model,0.0086,1,0,0,0,0,0,0,0,0
+Blood Omen 2|844,Blood Omen 2,Sarafan Lord,dialogue,model,0.1032,28,1,3,0,0,0,0,1,2
+Blood Omen 2|846,Blood Omen 2,Sarafan Lord,dialogue,model,0.1592,45,0,1,1,0,0,0,0,1
+Blood Omen 2|848,Blood Omen 2,Sarafan Lord,dialogue,model,0.1892,45,0,2,0,1,1,0,0,4
+Blood Omen 2|850,Blood Omen 2,Sarafan Lord,dialogue,model,0.1979,7,0,0,0,0,0,0,0,0
+Blood Omen 2|853,Blood Omen 2,Sarafan Lord,dialogue,model,0.2429,58,4,4,1,1,2,1,0,2
+Blood Omen 2|857,Blood Omen 2,Sarafan Lord,dialogue,model,0.036,3,0,0,0,0,0,0,0,0
+Blood Omen 2|859,Blood Omen 2,Sarafan Lord,dialogue,model,1e-4,1,0,0,0,0,0,0,0,0
+Blood Omen 2|860,Blood Omen 2,Janos Audron,dialogue,model,0.014,11,2,0,2,2,0,2,0,0
+Blood Omen 2|861,Blood Omen 2,Sarafan Lord,dialogue,model,0.0755,27,2,2,2,3,2,1,2,2
+Blood Omen 2|862,Blood Omen 2,Janos Audron,dialogue,model,0.0867,28,3,0,3,2,0,3,0,0
+Blood Omen 2|863,Blood Omen 2,Sarafan Lord,dialogue,model,0.0366,16,2,0,1,2,1,2,0,1
+Blood Omen 2|864,Blood Omen 2,Janos Audron,dialogue,model,0.0646,22,1,0,1,1,0,1,0,0
+Blood Omen 2|865,Blood Omen 2,Sarafan Lord,dialogue,model,0.0424,19,1,0,1,0,0,1,0,1
+Blood Omen 2|866,Blood Omen 2,Janos Audron,dialogue,model,0.0082,10,0,0,0,0,0,0,0,0
+Blood Omen 2|868,Blood Omen 2,Sarafan Lord,dialogue,model,0.0093,9,0,0,0,0,0,0,0,0
+Blood Omen 2|870,Blood Omen 2,Janos Audron,dialogue,model,0.0555,3,0,0,0,0,0,0,0,0
+Blood Omen 2|872,Blood Omen 2,Sarafan Lord,dialogue,model,0.0238,15,3,2,2,3,0,3,0,0
+Blood Omen 2|874,Blood Omen 2,Janos Audron,dialogue,model,0.0199,2,0,0,0,0,0,0,0,0
+Blood Omen 2|875,Blood Omen 2,Sarafan Lord,dialogue,model,0.0029,6,0,0,0,0,0,0,0,0
+Blood Omen 2|878,Blood Omen 2,Sarafan Lord,dialogue,model,0.0758,31,3,1,2,2,1,2,0,1
+Defiance|10,Defiance,Moebius,dialogue,model,0.0663,24,0,3,0,0,0,0,0,0
+Defiance|12,Defiance,Moebius,dialogue,model,0.0525,20,0,1,0,0,0,0,0,1
+Defiance|14,Defiance,Moebius,dialogue,model,0.0415,20,0,0,1,0,0,0,0,0
+Defiance|16,Defiance,Moebius,dialogue,model,0.1267,5,1,1,0,1,0,0,0,0
+Defiance|17,Defiance,Moebius,dialogue,model,0.053900000000000003,23,1,0,1,1,1,0,1,1
+Defiance|18,Defiance,Moebius,dialogue,constraint,NA,97,2,4,2,1,1,0,0,3
+Defiance|19,Defiance,Moebius,dialogue,model,0.1066,36,0,1,0,1,0,1,1,2
+Defiance|21,Defiance,Elder God,dialogue,model,0.2983,55,1,0,1,3,0,2,0,0
+Defiance|22,Defiance,Elder God,dialogue,model,0.0037,7,1,0,1,1,0,0,0,0
+Defiance|24,Defiance,Elder God,dialogue,model,0.2675,60,3,4,1,4,1,2,1,3
+Defiance|26,Defiance,Elder God,dialogue,model,0.0248,18,0,0,0,1,0,0,0,0
+Defiance|28,Defiance,Elder God,dialogue,model,0.1455,40,1,1,0,2,0,1,1,1
+Defiance|29,Defiance,Elder God,dialogue,model,0.0312,17,1,2,1,1,1,1,2,1
+Defiance|31,Defiance,Elder God,dialogue,model,0.0033,5,0,1,0,0,1,0,1,1
+Defiance|32,Defiance,Elder God,dialogue,model,0.0337,20,1,2,1,1,2,0,2,3
+Defiance|33,Defiance,Moebius,dialogue,model,0.0975,34,0,0,0,0,1,0,0,1
+Defiance|35,Defiance,Moebius,dialogue,model,0.0195,15,0,0,0,2,0,2,0,0
+Defiance|37,Defiance,Moebius,dialogue,model,0.0421,20,1,0,1,1,0,2,1,0
+Defiance|39,Defiance,Moebius,dialogue,model,0.1055,34,0,1,1,0,0,1,0,0
+Defiance|41,Defiance,Moebius,dialogue,model,0.176,45,2,2,2,3,0,3,1,0
+Defiance|43,Defiance,Moebius,dialogue,model,0.334,10,0,0,0,0,0,0,0,0
+Defiance|45,Defiance,Moebius,dialogue,model,0.1292,36,0,1,0,1,1,0,0,1
+Defiance|47,Defiance,Moebius,dialogue,model,0.0553,24,1,1,0,0,0,0,0,1
+Defiance|55,Defiance,Ariel,dialogue,model,0.1165,5,0,0,1,1,0,0,0,0
+Defiance|57,Defiance,Ariel,dialogue,model,0.2173,8,0,1,0,0,0,0,0,0
+Defiance|59,Defiance,Ariel,dialogue,model,0.058,26,0,2,1,1,1,0,0,2
+Defiance|61,Defiance,Ariel,dialogue,model,0.1968,44,0,2,0,1,2,1,1,3
+Defiance|63,Defiance,Ariel,dialogue,model,0.0026,6,0,0,0,0,0,0,0,0
+Defiance|65,Defiance,Ariel,dialogue,model,0.2443,10,0,1,0,0,0,0,0,0
+Defiance|67,Defiance,Ariel,dialogue,constraint,NA,12,0,1,0,0,1,0,0,1
+Defiance|69,Defiance,Ariel,dialogue,model,0.004,7,2,0,2,2,0,1,0,0
+Defiance|71,Defiance,Ariel,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Defiance|73,Defiance,Ariel,dialogue,constraint,0.7598,26,2,1,1,3,1,2,1,1
+Defiance|75,Defiance,Ariel,dialogue,model,0.0468,20,0,0,0,0,0,0,0,0
+Defiance|79,Defiance,Vorador,dialogue,constraint,0.7606,23,2,0,3,1,0,2,0,0
+Defiance|81,Defiance,Vorador,dialogue,model,0.0045,6,0,0,0,0,0,0,0,0
+Defiance|84,Defiance,Vorador,dialogue,model,0.1985,5,0,0,0,0,0,0,0,0
+Defiance|86,Defiance,Vorador,dialogue,constraint,NA,11,0,1,0,0,0,0,0,0
+Defiance|88,Defiance,Vorador,dialogue,model,0.0147,13,0,0,0,0,0,0,0,0
+Defiance|90,Defiance,Vorador,dialogue,constraint,0.8696,35,0,1,0,0,1,0,0,1
+Defiance|92,Defiance,Vorador,dialogue,model,0.2689,52,1,1,0,2,0,0,1,0
+Defiance|94,Defiance,Vorador,dialogue,model,0.0045,6,0,0,0,0,0,0,0,0
+Defiance|96,Defiance,Vorador,dialogue,model,0.1479,5,0,0,0,0,0,0,0,0
+Defiance|97,Defiance,Vorador,dialogue,constraint,0.7322,22,0,0,0,0,0,0,0,1
+Defiance|99,Defiance,Vorador,dialogue,constraint,0.8163,25,0,0,0,0,0,0,0,0
+Defiance|101,Defiance,Vorador,dialogue,constraint,NA,88,0,3,0,0,5,2,3,5
+Defiance|102,Defiance,Vorador,dialogue,model,0.066,26,0,0,0,1,1,1,0,3
+Defiance|103,Defiance,Vorador,dialogue,constraint,NA,11,0,0,0,0,0,0,0,0
+Defiance|105,Defiance,Vorador,dialogue,model,0.1303,38,1,3,2,2,2,1,1,2
+Defiance|109,Defiance,Elder God,dialogue,model,0.2417,7,0,0,0,0,0,0,0,0
+Defiance|111,Defiance,Elder God,dialogue,model,0.0083,9,0,1,0,0,0,0,0,0
+Defiance|113,Defiance,Elder God,dialogue,model,0.0999,36,0,2,1,1,0,0,0,2
+Defiance|114,Defiance,Elder God,dialogue,constraint,0.7149,20,1,1,0,1,2,1,0,2
+Defiance|115,Defiance,Elder God,dialogue,model,0.0033,5,0,0,0,0,0,0,0,0
+Defiance|117,Defiance,Elder God,dialogue,model,0.0357,18,0,1,0,0,0,0,0,0
+Defiance|119,Defiance,Elder God,dialogue,model,0.2237,50,0,2,0,0,0,0,0,0
+Defiance|122,Defiance,Elder God,dialogue,model,0.0859,30,0,0,0,2,0,0,0,0
+Defiance|124,Defiance,Elder God,dialogue,model,0.0013,4,0,0,0,0,0,0,0,0
+Defiance|129,Defiance,Mortanius,dialogue,model,0.0028,5,0,0,0,0,0,0,0,0
+Defiance|131,Defiance,Mortanius,dialogue,constraint,NA,10,0,0,0,0,0,0,0,0
+Defiance|134,Defiance,Mortanius,dialogue,model,0.008,8,0,0,0,0,0,0,0,0
+Defiance|136,Defiance,Mortanius,dialogue,constraint,NA,16,1,1,0,1,0,1,0,0
+Defiance|163,Defiance,Mortanius,dialogue,model,0.0473,24,1,1,0,0,0,0,0,0
+Defiance|165,Defiance,Mortanius,dialogue,model,0.0512,24,0,0,0,1,0,2,0,0
+Defiance|167,Defiance,Mortanius,dialogue,model,0.1056,4,0,0,0,0,0,0,0,0
+Defiance|168,Defiance,Mortanius,dialogue,model,0.0219,15,0,1,0,0,1,1,0,1
+Defiance|170,Defiance,Mortanius,dialogue,model,0.0115,11,0,0,0,0,0,0,0,0
+Defiance|172,Defiance,Mortanius,dialogue,model,0.0045,7,1,0,1,1,1,1,1,1
+Defiance|174,Defiance,Mortanius,dialogue,constraint,NA,69,2,5,1,2,2,1,0,3
+Defiance|176,Defiance,Mortanius,dialogue,constraint,0.9826,92,1,3,3,4,0,2,0,1
+Defiance|178,Defiance,Mortanius,dialogue,model,0.0548,21,0,1,0,0,0,0,0,0
+Defiance|180,Defiance,Mortanius,dialogue,constraint,NA,17,0,0,0,0,0,0,0,2
+Defiance|181,Defiance,Mortanius,dialogue,model,0.1255,5,0,0,0,0,0,0,0,0
+Defiance|223,Defiance,Moebius,dialogue,constraint,NA,16,0,1,0,0,1,0,1,1
+Defiance|225,Defiance,Moebius,dialogue,model,0.0256,3,0,0,0,0,0,0,0,0
+Defiance|226,Defiance,Moebius,dialogue,model,0.2901,8,0,0,0,0,0,0,0,0
+Defiance|228,Defiance,Moebius,dialogue,constraint,NA,18,1,0,1,1,0,0,0,0
+Defiance|230,Defiance,Moebius,dialogue,constraint,NA,100,3,8,2,4,3,2,2,5
+Defiance|232,Defiance,Moebius,dialogue,model,0.1426,39,1,1,0,1,1,1,0,3
+Defiance|234,Defiance,Janos Audron,dialogue,model,0.0179,2,0,0,0,0,0,0,0,0
+Defiance|235,Defiance,Janos Audron,dialogue,model,0.0397,16,0,1,0,0,1,0,0,1
+Defiance|237,Defiance,Janos Audron,dialogue,model,0.146,5,0,0,0,0,0,0,0,0
+Defiance|239,Defiance,Janos Audron,dialogue,model,0.1255,6,0,1,1,0,0,0,0,0
+Defiance|241,Defiance,Janos Audron,dialogue,model,0.0807,30,3,3,3,1,1,1,0,1
+Defiance|243,Defiance,Janos Audron,dialogue,model,0.1056,4,0,0,0,0,0,0,0,0
+Defiance|245,Defiance,Janos Audron,dialogue,model,0.0246,14,0,1,0,0,0,0,0,1
+Defiance|247,Defiance,Janos Audron,dialogue,model,0.1688,45,2,1,1,1,0,1,0,1
+Defiance|249,Defiance,Janos Audron,dialogue,constraint,0.8294,26,3,1,2,5,0,2,0,1
+Defiance|251,Defiance,Janos Audron,dialogue,constraint,0.7189,20,1,0,1,0,0,1,0,0
+Defiance|252,Defiance,Janos Audron,dialogue,constraint,NA,17,0,3,1,3,0,2,1,0
+Defiance|254,Defiance,Janos Audron,dialogue,constraint,0.7731,27,0,2,0,0,1,0,1,4
+Defiance|256,Defiance,Janos Audron,dialogue,model,0.1006,5,0,1,0,0,0,0,0,0
+Defiance|258,Defiance,Janos Audron,dialogue,constraint,0.8456,27,2,3,0,2,0,3,2,0
+Defiance|260,Defiance,Janos Audron,dialogue,constraint,0.6505,17,2,1,3,2,0,2,1,0
+Defiance|262,Defiance,Janos Audron,dialogue,constraint,0.9057,34,3,2,1,4,1,4,0,1
+Defiance|264,Defiance,Janos Audron,dialogue,constraint,0.9819,89,3,5,1,3,5,4,2,3
+Defiance|266,Defiance,Janos Audron,dialogue,model,0.3199,68,0,3,0,0,1,0,0,0
+Defiance|268,Defiance,Janos Audron,dialogue,model,0.0022,5,0,0,0,0,0,0,0,0
+Defiance|269,Defiance,Ariel,dialogue,constraint,0.6705,18,0,0,0,0,1,0,0,1
+Defiance|271,Defiance,Ariel,dialogue,constraint,0.9638,65,0,0,0,0,0,0,0,1
+Defiance|272,Defiance,Ariel,dialogue,model,0.1265,38,2,1,0,2,0,0,0,0
+Defiance|275,Defiance,Janos Audron,dialogue,model,0.1455,7,1,1,0,1,0,2,0,0
+Defiance|276,Defiance,Janos Audron,dialogue,model,0.0388,20,0,2,0,0,1,0,1,1
+Defiance|277,Defiance,Janos Audron,dialogue,model,0.0278,2,0,1,0,1,1,0,0,1
+Defiance|278,Defiance,Janos Audron,dialogue,model,0.0014,3,0,0,0,0,0,0,0,0
+Defiance|280,Defiance,Janos Audron,dialogue,model,0.0319,18,0,1,0,1,0,1,0,0
+Defiance|282,Defiance,Janos Audron,dialogue,model,0.1938,6,0,0,0,0,0,0,0,0
+Defiance|283,Defiance,Elder God,dialogue,model,0.0168,15,0,0,0,1,0,1,0,0
+Defiance|285,Defiance,Elder God,dialogue,model,0.0562,20,2,0,2,2,0,0,0,1
+Defiance|287,Defiance,Elder God,dialogue,model,0.1068,33,0,2,0,0,0,0,0,0
+Defiance|289,Defiance,Elder God,dialogue,model,0.0084,11,0,0,0,0,0,0,0,0
+Defiance|291,Defiance,Elder God,dialogue,model,0.1858,45,0,3,0,0,3,2,1,4
+Defiance|301,Defiance,Moebius,dialogue,constraint,NA,15,1,1,1,0,0,1,0,0
+Defiance|302,Defiance,Moebius,dialogue,model,0.334,10,1,2,1,1,1,1,1,1
+Defiance|304,Defiance,Moebius,dialogue,model,0.0022,1,0,0,0,0,0,0,0,0
+Defiance|307,Defiance,Moebius,dialogue,model,0.0639,4,0,0,0,0,0,0,0,0
+Defiance|310,Defiance,Moebius,dialogue,model,0.0106,11,0,0,0,2,0,2,0,0
+Defiance|312,Defiance,Moebius,dialogue,model,0.0173,15,1,1,1,1,0,1,1,1
+Defiance|314,Defiance,Moebius,dialogue,constraint,0.6635,21,0,0,0,1,0,1,0,1
+Defiance|315,Defiance,Moebius,dialogue,model,0.0531,22,0,1,0,0,1,0,2,2
+Defiance|317,Defiance,Moebius,dialogue,model,0.0686,3,0,1,0,1,1,0,0,1
+Defiance|320,Defiance,Elder God,dialogue,model,0.142,36,1,2,0,1,1,0,1,2
+Defiance|322,Defiance,Elder God,dialogue,model,0.0236,15,0,1,0,1,1,0,0,0
+Defiance|324,Defiance,Elder God,dialogue,model,0.1413,39,2,1,1,3,0,2,1,0
+Defiance|325,Defiance,Janos Audron,dialogue,model,0.0686,3,1,0,0,1,0,0,0,0
+Defiance|327,Defiance,Ariel,dialogue,model,0.0062,9,0,0,0,0,0,0,0,0
+Defiance|331,Defiance,Ariel,dialogue,constraint,NA,13,1,1,0,1,0,0,0,0
+Defiance|332,Defiance,Elder God,dialogue,model,0.1429,6,1,1,1,2,0,1,0,0
+Defiance|333,Defiance,Moebius,dialogue,model,0.0168,1,0,0,0,0,0,0,0,0
+Defiance|335,Defiance,Moebius,dialogue,model,0.0386,2,0,0,0,0,0,0,0,0
+Defiance|344,Defiance,Elder God,dialogue,model,0.0076,8,0,0,0,0,0,0,0,0
+Defiance|346,Defiance,Elder God,dialogue,constraint,0.7672,27,1,1,1,1,0,1,1,0
+Defiance|347,Defiance,Elder God,dialogue,model,0.164,42,1,1,1,2,0,3,0,0
+Defiance|350,Defiance,Elder God,dialogue,model,9e-4,4,0,0,0,0,0,0,0,0
+Defiance|352,Defiance,Elder God,dialogue,model,0.1446,40,0,1,3,1,2,3,1,2
