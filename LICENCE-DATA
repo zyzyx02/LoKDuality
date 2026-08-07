@@ -1,0 +1,27 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Tibor Guzsvinecz
+
+The annotation in annotation/ and the derived results in data/ are licensed
+under the Creative Commons Attribution 4.0 International Licence.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by/4.0/
+
+---
+
+What this licence covers, and what it does not
+
+Covered. The register annotation, the codebook, the provenance records and the
+aggregated result tables. These are original work: they are judgements about
+the text, and statistics computed from it, rather than the text itself.
+
+Not covered, and not distributed. The dialogue of the five games. The
+annotation refers to it by game, sequence number and a truncated hash, and
+carries no dialogue text. Reconstructing the full corpus requires your own
+copies of the source transcripts, which belong to the individuals who produced
+them, and reproduces dialogue that belongs to the rights holders of the games.

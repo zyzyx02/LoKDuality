@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: >-
+  Register and character in the Legacy of Kain series: annotation
+  and analysis code
+message: >-
+  If you use this annotation or code, please cite both the software
+  and the associated paper.
+type: software
+authors:
+  - family-names: Guzsvinecz
+    given-names: Tibor
+    name-particle: Dr
+    affiliation: >-
+      University of Pannonia, Faculty of Information Technology,
+      Veszprém, Hungary
+    orcid: "https://orcid.org/0000-0003-3273-313X"
+    email: guzsvinecz.tibor@zek.uni-pannon.hu
+repository-code: "https://github.com/zyzyx02/LoKDuality"
+abstract: >-
+  Stand-off register annotation for the five Legacy of Kain games
+  (1996 to 2003), covering 1,768 speech blocks and 39,247 words,
+  together with the Python corpus-construction pipeline and the R
+  analysis code. Each block is labelled as narration or dialogue,
+  and the provenance of every label is recorded. The dialogue text
+  is not redistributed; a rebuild script reconstructs the corpus
+  from a user's own copies of the source transcripts.
+keywords:
+  - register variation
+  - character voice
+  - narration
+  - video game dialogue
+  - corpus annotation
+  - emotion lexicon
+  - Legacy of Kain
+license: MIT
+license-url: "https://github.com/zyzyx02/LoKDuality/blob/main/LICENCE"
+version: 1.0.0
+date-released: "2026-08-07"
